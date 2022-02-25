@@ -1,0 +1,2624 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poikilophronesis, or, The different humours of men</title>
+            <author>Shaw, Samuel, 1635-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 126 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59606</idno>
+            <idno type="STC">Wing S3042</idno>
+            <idno type="STC">ESTC R10737</idno>
+            <idno type="EEBO-CITATION">13785989</idno>
+            <idno type="OCLC">ocm 13785989</idno>
+            <idno type="VID">101802</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101802)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 849:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poikilophronesis, or, The different humours of men</title>
+                  <author>Shaw, Samuel, 1635-1696.</author>
+               </titleStmt>
+               <extent>[14], 93, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The epistle dedicatory" signed: Sam Shaw.</note>
+                  <note>Title transliterated from Greek.</note>
+                  <note>"Represented in an interlude at a country-school, Dec. 15, 1691."</note>
+                  <note>Errata: p. [2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101802:1"/>
+            <p>ΠΟΙΚΙΛΟΦΡΟΝΙΣΙΣ<g ref="char:punc">▪</g> OR, THE Different Humours OF MEN: Repreſented in an <hi>INTERLUDE</hi> At A Country-SCHOOL.</p>
+            <p>
+               <hi>Dec.</hi> 15. 1691.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, for <hi>Tho. Park<g ref="char:EOLhyphen"/>hurst</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide</hi> near <hi>Mercers</hi> Chappel. 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101802:2"/>
+            <pb facs="tcp:101802:2"/>
+            <head>The Epiſtle Dedicatory. To the much HONOURED
+<list>
+                  <item>Sir <hi>John Shaw</hi> Baronet.</item>
+                  <item>Sir <hi>John More</hi> Knight.</item>
+                  <item>
+                     <hi>Chriſtopher Pack</hi> Eſquire.</item>
+               </list>
+            </head>
+            <opener>
+               <salute>Worthy Sirs,</salute>
+            </opener>
+            <p>WHen the Reflections of the Cenſorious bad Ex<g ref="char:EOLhyphen"/>torted from me, what the Impor<g ref="char:EOLhyphen"/>tunity of the Friendly and Can<g ref="char:EOLhyphen"/>did
+<pb facs="tcp:101802:3"/> could not Eli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> A Conſent to make this Scholoſtick Interlude publick; I thought there was a great deal of Ju<g ref="char:EOLhyphen"/>ſtice, that it ſhould be humbly preſented to the Principal E<g ref="char:EOLhyphen"/>rectors of thoſe Walls, wherein it was contriv'd; as a Monu<g ref="char:EOLhyphen"/>ment. <gap reason="illegible" resp="#APEX" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap>, and <hi>my Own</hi> Gratitude. May the publick Acknowledgment of the kind Aſſiſtance, that I receiv'd from you, and your generous Pa<g ref="char:EOLhyphen"/>rents in Reviving a Free School out of its Ruines, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Encou<g ref="char:EOLhyphen"/>ragement to the Ingenious and Wealthy Gentlemen of the Age, to favour Learning and the
+<pb facs="tcp:101802:3"/> good Education of You<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, and it will Effectually ſerve the De<g ref="char:EOLhyphen"/>ſign of</p>
+            <closer>
+               <dateline>Aſhby De-la-zouch Leiceſterſhire, <date>Jun. penult. 1692.</date>
+               </dateline>
+               <signed>Your much Obliged and moſt humble Servant <hi>Sam. Shaw.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:101802:4"/>
+            <head>The Names of the Speakers</head>
+            <list>
+               <item>Sir. <hi>Francis Freeman,</hi> a good Landlord</item>
+               <item>
+                  <hi>Dr. Caſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</hi> a caſuiſtical Divine</item>
+               <item>Dr. <hi>Helye,</hi> a Phyſician.</item>
+               <item>Mr. <hi>Speed,</hi> Sir <hi>Francis</hi> his Clark.</item>
+               <item>
+                  <hi>Simon Shorthoſe.</hi> a ſcrupulous Man.</item>
+               <item>
+                  <hi>Lawrence Large,</hi> a broad conſcienc'd Man.</item>
+               <item>
+                  <hi>Benjamin Brag,</hi> a confident <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uff.</item>
+               <item>
+                  <hi>Harry Hart,</hi> a puſillanimous Man.</item>
+               <item>Mr. <hi>Spruce,</hi> a finnical Gentle man.</item>
+               <item>Goodman <hi>Gray,</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>clowniſh Countryman.</item>
+               <item>
+                  <hi>Anthony, Angier,</hi> a pettiſh teſty Man.</item>
+               <item>
+                  <hi>Lawrence <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amb,</hi> a meek ſheepiſh Man.</item>
+               <item>
+                  <hi>Will, Wake,</hi> a hen-peckt Man.</item>
+               <item>
+                  <hi>Charles Catchit,</hi> a covetous Man.</item>
+               <item>
+                  <hi>Peter Peace,</hi> a contented Man.</item>
+               <item>Mr. <hi>Medler,</hi> a News-monger.</item>
+               <item>Mr. <hi>Slack,</hi> an Epicure.</item>
+               <item>Mr. <hi>Grindon,</hi> a ſnarling Carpet.</item>
+               <item>
+                  <hi>Frank Fawns,</hi> a Flatterer.</item>
+               <item>
+                  <hi>Stephen Sad,</hi> a Melancholiſt.</item>
+               <item>
+                  <hi>Moſes Merry,</hi> a caſt-away Care.</item>
+               <item>
+                  <hi>Keſter Killagrew,</hi> a vapouring Souldier.</item>
+            </list>
+         </div>
+         <div xml:lang="grc" type="prologue">
+            <pb facs="tcp:101802:4"/>
+            <head>Προλογος.</head>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div xml:lang="lat" type="prologue">
+            <pb facs="tcp:101802:5"/>
+            <pb facs="tcp:101802:5"/>
+            <head>Prologus.</head>
+            <p>QUouſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tandem, Auditores, Sene<g ref="char:EOLhyphen"/>ſcentis &amp; caduci ora<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ris facetias audire &amp; videre flagitatis. Satis eſt, plus quàm ſatis eſt, quod praeceptor no<g ref="char:EOLhyphen"/>ſter jam ſeniculus &amp; repueraſcens geniis veſtris hactenus indulſerit, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uum ipſius defraudaverit. Bene vertat quod multis ab<g ref="char:punc">▪</g> hinc annis vobis donaveri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: veſtrum eſt conſulere ne quid mali de futuro illi ſtruatis, pudet equidem, pudet illum,—capiti non poſſe pericula cano pel<g ref="char:EOLhyphen"/>lere: multo magis pudeat vos exigere, quae non eſt genii ejus vel aetatis praeſtare. Quod ad nos balbutientes (ne dicam va<g ref="char:EOLhyphen"/>gientes) hiſtriones, non eſt quod veniam veſtram oremus, quod ipſi promptius im<g ref="char:EOLhyphen"/>pertiemini: Candidi enim hoc eſt inge<g ref="char:EOLhyphen"/>nii, quod non poteſt laudare, ſaltem to<g ref="char:EOLhyphen"/>lerare. Sinite ergo, ſinite, quaeſumus, in haec aetate ludicrâ, quae in aetate ado<g ref="char:EOLhyphen"/>leſcentiori forſitan f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rent non tam riden<g ref="char:EOLhyphen"/>da quàm corrigenda. Queri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur, &amp; non injuriâ queritur Magiſter noſter de quo<g ref="char:EOLhyphen"/>rundam (vel quarundam dicam?) ma<g ref="char:EOLhyphen"/>levolentia victum, vitam &amp; v<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ae viam ſi<g ref="char:EOLhyphen"/>bi
+<pb facs="tcp:101802:6"/> invidentium. Sed incaſſum queritur; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: ſibi ipſi ſapit, ſibi ipſi placet; &amp; rumpatur quiſquis rumpitur invidiâ. Male agitur cum m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeris paeda<g ref="char:EOLhyphen"/>gogis, ſi ad libitum &amp; nutum cujus cujus homunculi vani &amp; ſibi male temperantis, os eorum obſtruatur, &amp; conſtringantur manus. Sed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d vos redeo, benevoli au<g ref="char:EOLhyphen"/>ditores; Conveniſtis huc ho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lie ſpecta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um, &amp; ut ſpectemini. Nihil noſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a in<g ref="char:EOLhyphen"/>tereſt, an vigiletis, an dormia<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is; an au<g ref="char:EOLhyphen"/>diatis<g ref="char:punc">▪</g> an ſolum ſpectetis; an intelliga<g ref="char:EOLhyphen"/>tis quid volumus, an approbetis quod in<g ref="char:EOLhyphen"/>telligitis. Silete vel plaudite, laeti ſitis, vel ſitis tetrici, candidi vel <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynici, eo<g ref="char:EOLhyphen"/>demres redit. Sciatis vero veli<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, hodierni colloquii finem eſſe &amp; propoſitum vos ſapientiores magis quàm hilariores effice<g ref="char:EOLhyphen"/>re: Cavete vobis de aegritudinibus animi, quas nos proponimus ſolum ut ſanemus. Boni conſulite ſeniles lucubrationes &amp; geſticulationes pueriles. His legibus ſal<g ref="char:EOLhyphen"/>vete omnes.</p>
+         </div>
+         <div xml:lang="eng" type="prologue">
+            <pb facs="tcp:101802:6"/>
+            <head>Prologue,</head>
+            <p>WEllcome kind Auditors, and all ye who are either ſo curious as to come to ſee, or ſo fine or ſo pretty, as to come to be ſeen. The truth is, it is not worth your while to attend upon either what old age caninvent, or child-hood can repreſent. Nay, poſſibly you will ſay, <hi>—Meritò ſuſpecta libido eſt, quae venerem affectat ſine vi<g ref="char:EOLhyphen"/>ribus.</hi>
+            </p>
+            <lg>
+               <l>—He's a Fool that would make ſport,</l>
+               <l>And has not Wit ſufficient for't.</l>
+            </lg>
+            <p>
+               <hi>To which I might ſubjoin,</hi>
+            </p>
+            <lg>
+               <l>And he's a Clown that looks for Wit;</l>
+               <l>Nor Age nor Time affording it.</l>
+            </lg>
+            <p>Gentlemen, If you find nothing to entertain your more exalted fancies, I will adminiſter this conſolation to you, that if you be ſet on gigg, you may ſtill laugh at your own ſim<g ref="char:EOLhyphen"/>plicity, when you find your ſelve<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſappoint<g ref="char:EOLhyphen"/>ed.
+<pb facs="tcp:101802:7"/> I know no body that is endebted to you a treat, nor that has promis'd you any thing, but your ſelves. Therefore if you cannot laugh that we have made our ſelves fools for you, yet finding your ſelves diſappointed, you cannot but laugh to ſee how we have made fools of you. But indeed, good people, we are in good earneſt, a little to repreſent to you the ex<g ref="char:EOLhyphen"/>treams, that men commonly run into, that ye may avoid 'em, and the enormity of other mens paſſions, that you may the better ſuppreſs your own. We will not purpoſely reflect upon any perſon in the World: And yet we would have every perſon that hears us, make appli<g ref="char:EOLhyphen"/>cation too. To mingle good ſenſe with well deviſed fables, facetious expreſſions or comical actions, was of old eſteemed a good way of re<g ref="char:EOLhyphen"/>commending vertue and expoſing vice: And if we could poſſibly both delight you and edi<g ref="char:EOLhyphen"/>fie you, we would dare to call it an enter<g ref="char:EOLhyphen"/>tainment. But (alas) we cannot pretend to the one or the other: The one we cannot do, the other perhaps you will not ſuffer. For I muſt tell you, there are but few people in the world ſo ingenuous or good natur'd, as to ſuffer themſelves to be edify'd. Man is a male-pert creature, and will much ſooner fall out and ſwagger, than either fall down ro ſtagger at any reprehenſion. How<g ref="char:EOLhyphen"/>ever
+<pb facs="tcp:101802:7"/> Gentlemen, put on your holyday humour, and be as good natur'd as you can: And if it be above us to receive your thanks, or be<g ref="char:EOLhyphen"/>low you to give 'em, yet at leaſt let us have your pardon: which if we cannot obtain, we will take heed not to offend another year. But we are not ſollicitous about either the one or the other, knowing that when we have ſaid all we can,—</p>
+            <lg>
+               <l>Plays muſt run their different fates,</l>
+               <l>According to the hearers Pates.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101802:8"/>
+            <pb n="1" facs="tcp:101802:8"/>
+            <div type="play">
+               <stage>Enter Sr. <hi>Francis Freeman,</hi> with <hi>Father Caſye</hi> a Scholaſtical Divine, and <hi>Dr. Hely</hi> a Phyſitian accompanying him, and <hi>Mr. Speed</hi> his man waiting on him. They Compliment each other, and take their places.</stage>
+               <sp>
+                  <speaker>Freem.</speaker>
+                  <p>MY worthy Friends, your Vi<g ref="char:EOLhyphen"/>ſit is very ſeaſonable, and I am right glad to ſee you. I know your Accompliſhments are very great in your reſpective Profeſſions, ſo great, as that nothing can match them, except it be that Singular Humanity, which inſtructs you to communicate them for the Edify<g ref="char:EOLhyphen"/>ing and Healing of all Neighbouring Man<g ref="char:EOLhyphen"/>kind. And I dare ſay, if your Sphere were as large as the Sun's, your Influen<g ref="char:EOLhyphen"/>ces would be as diffuſive as his: You are rather ſtraitned for room to Act in, than for Benignity or Ingenuity to Act with. It is pity, that ſuch large Souls ſhould be pen't up within ſuch narrow Bounds of Mortallity.</p>
+               </sp>
+               <sp>
+                  <pb n="2" facs="tcp:101802:9"/>
+                  <speaker>Caſ.</speaker>
+                  <p>Good Sr. <hi>Francis,</hi> do not trou<g ref="char:EOLhyphen"/>ble your ſelf (not to ſay us,) with ſuch high ſtrains, which do more expreſs your own Eloquence, than our Accompliſh<g ref="char:EOLhyphen"/>ments. They only ſhew what you are able to ſpeak, tho' it be ſuch things which we bluſh to hear.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I pray, Sr. <hi>Francis,</hi> rather make Tryal, than Proclamation of our Skill and Aptitude to ſerve you. Beſtow up<g ref="char:EOLhyphen"/>on us your <hi>Commands,</hi> rather than your <hi>Encomiums,</hi> except you would have us to think, you have brought us h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther, rather to <hi>Shame</hi> us, than <hi>Entertain</hi> us. For my own part, I aſſure you (and I think, I ſpeak the Senſe of this Reverend Fa<g ref="char:EOLhyphen"/>ther) I had rather <hi>do</hi> a thouſand good Acts, than <hi>hear</hi> of one. The greateſt Ingenuity imaginable is imperfect, how<g ref="char:EOLhyphen"/>ever, it is not illuſtrious, without a pro<g ref="char:EOLhyphen"/>portionable Modeſty. Tell us therefore, I pray Sir, wherein we may poſſibly ſerve you, or any of your Dependants, by our reſpective Faculties, and then, if we cannot approve our ſelves able, yet you ſhall be obliged to confeſs us wil<g ref="char:EOLhyphen"/>ling.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Sir, I am well ſatis<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i'd already, both of the one, and the other. In ſhort
+<pb n="3" facs="tcp:101802:9"/> therefore, I will tell you, what I would conſult you about. I am not only a Land<g ref="char:EOLhyphen"/>lord of Eſtates, but I take my ſelf alſo to be a kind of a Landlord of Tempers and Converſations, and that my Tenants do in a great meaſure, hold their Minds and Manners of me, as well as their Lands. I have a plentiful Eſtate, which I never labour'd for, never ſwate for, ne<g ref="char:EOLhyphen"/>ver fought for, never ſtudy'd for, never purchaſt. But it was devolve<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> upon me from my Anceſtors, without any Care or Charge of mine; So that I take it with all its Encumbrances, and whate<g ref="char:EOLhyphen"/>ver I find upon it, I take to be my own. All the Inhabitants of it, are my Fami<g ref="char:EOLhyphen"/>ly: The poor that I found there, and their Poſterity, I reckon, have as much Right to live upon it, as I. The Land was charg'd with them, as much as any Land is charg'd with an Annuity; which cannot be diſcharg'd, till the Perſons ceaſe to be, or at leaſt ceaſe to be there's.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Really Sr. <hi>Francis,</hi> I do admire your curious Notion, I wiſh it were im<g ref="char:EOLhyphen"/>bib'd by all the Landlords upon Earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>In the Application of this No<g ref="char:EOLhyphen"/>tion (for that you know, <hi>Father,</hi> is the
+<pb n="4" facs="tcp:101802:10"/> life of all) I take my ſelf to be concern'd, to be almoſt paternally kind, charitable, and hoſpitable to 'em; to make much of thoſe that do pay their Rents, to forbear thoſe that do not, and to forgive thoſe that cannot. And not only ſo, but I take my ſelf alſo concern'd to look af<g ref="char:EOLhyphen"/>ter the Health of their Bodies, and the peaceful, agreeable Tempers of their Minds. I would not ſee them inju<g ref="char:EOLhyphen"/>rious to one another, nor ſo much as uneaſie to themſelves. The Principal of my Tenants, are now in my Houſe, they are come together to pay their <hi>Mich.</hi> Rent, and I have made them an Enter<g ref="char:EOLhyphen"/>tainment. But I know your good Counſel, and grave Advice will much excel my Meat and Drink, if you will pleaſe to vouchſafe it.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Sir, you expreſs a Nature ſo good, and a Deſign ſo ge<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erous, that you may aſſure your ſelf, of what I can contribute to the healing of their Tem<g ref="char:EOLhyphen"/>pers, and the reconciling of their Diffe<g ref="char:EOLhyphen"/>rences: And that without reſpect to any Party or Sect whatſoever. The very words, <hi>Sect, Faſhion, Schiſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> I verily be<g ref="char:EOLhyphen"/>lieve, have created more Diviſions, and more Enmity amongſt Men, than the
+<pb n="5" facs="tcp:101802:10"/> things themſelves about they which differ. Every party, as they are more potent or more numerous than other, take it to be their priviledge, to call all the reſt that are not of their mind, Factious, or Schiſmatical. And why ſhould one par<g ref="char:EOLhyphen"/>ty be called a Sect more than another, meerly becauſe it is leſs, or perhaps leſs favour'd in the World?—<hi>mutato nemine de te Fabula narretur.</hi> Do but turn the Tables, alter the Scene, change the Scales, and then they that branded the other for Sectaries, will themſelves be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ound to be but a Sect. A Sect is but a part in pro<g ref="char:EOLhyphen"/>per ſpeaking, and there is no Party in the world can pretend to be any more. Let any party in the world ſwell it ſelf by Numbers, by Power, by Pre<g ref="char:EOLhyphen"/>ferments and Priviledges, or (which is more) in Pride and Self-conceitedneſs; yet it will never be able to get to be the whole, no more than the Frog in the Fa<g ref="char:EOLhyphen"/>ble, could get to match the Ox. The <hi>Aristotelian</hi> Philoſophers had once al<g ref="char:EOLhyphen"/>moſt engroſt to themſelves the name of Philoſophers; and yet they were but a Sect of Philoſophers, for all that. For my part, Sr. <hi>Francis,</hi> I look upon every man to be a Sect, or Particle of the U<g ref="char:EOLhyphen"/>niverſe,
+<pb n="6" facs="tcp:101802:11"/> and as ſuch I love him, as ſuch I would ſerve him.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Sir, I do admire the Amplitude and Benignity of your Mind; I wiſh all the Fathers of the Church, would re<g ref="char:EOLhyphen"/>ſpect all men as their Children.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I can promiſe nothing for my ſelf, Sr. <hi>Francis,</hi> but to be faithful and friend<g ref="char:EOLhyphen"/>ly in my Advice. Faithful in giving the beſt, and friendly in giving it for nothing; that ſo, if I cannot mend the man, yet I may not ſpend his money. There are ma<g ref="char:EOLhyphen"/>ny Phraſes, whereby our Employment is expreſt amongſt men; but I like none of 'em ſo well as that of <hi>Givin Phyſick.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>I had thought Dr<g ref="char:punc">▪</g> all your Givings, had been Receivings; they go all by the name of <hi>Recipe's.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Yes, Sr. <hi>Francis,</hi> to the Patient it is a receiving, but from us, i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is a giving. For my part, as Father <hi>Caſye</hi> looks upon all men to be Sects of the Univerſe, ſo I look upon them all to be Members of it, Fellow-members with my ſelf. And<g ref="char:punc">▪</g> ſhall one Member hire another to be helpful to it, or relieve it? will any Member that has Life and Senſe in it, ſuffer a Fellow-member to lan<g ref="char:EOLhyphen"/>guiſh meerly for lack of a Fee?</p>
+               </sp>
+               <sp>
+                  <pb n="7" facs="tcp:101802:11"/>
+                  <speaker>Free.</speaker>
+                  <p>But if you ſhould have this Sym<g ref="char:EOLhyphen"/>pathy, Dr. towards all, you your ſelf might in time languiſh for lack of food.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>No danger of that, Sr. <hi>Francis,</hi> let this Sympathy be, as it ought to be, reciprocal, and all men will be as for<g ref="char:EOLhyphen"/>ward to adminiſter to my Neceſſities, as I to their Infirmities; and ſo Kindneſs and Charity will circulate through the Univerſe, as naturally as the Blood through the Veins</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Well, I thankfully accept your generous Offer, Dr. But I hope we ſhall not have occaſion to give you much trou<g ref="char:EOLhyphen"/>ble; my Neighbours being generally more troubled with vicious Paſſions, than morbifick Humours, <hi>Aegrotani animo ma<g ref="char:EOLhyphen"/>gis quam corpore.—Speed,</hi> Call in hi<g ref="char:EOLhyphen"/>ther my Neighbour <hi>Simon Sho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>thoſe,</hi> and <hi>Lawrence Large. Speed.</hi> I doubt Sr. they will not agree to come together, they are of ſo different Humours.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>I warrant thee, they can agree to eat and drink together, ſure they can a<g ref="char:EOLhyphen"/>gree to appear together——</p>
+                  <stage>Exit Speed.</stage>
+                  <p>This <hi>Shorthoſe,</hi> Gentlemen, is a won<g ref="char:EOLhyphen"/>derful ſcrupulous man, and exceptious almoſt againſt every thing. But my
+<pb n="8" facs="tcp:101802:12"/> Neighbour <hi>Large,</hi> is not troubled with that fault, he is rather in a contrary Ex<g ref="char:EOLhyphen"/>treme, he ſwallows all that comes, and ſticks at nothing<g ref="char:punc">▪</g>
+                  </p>
+                  <p>Enter <hi>Speed,</hi> with <hi>Shorthoſe</hi> and <hi>Large.</hi>
+                  </p>
+                  <p>Come Mr. <hi>Shorthoſe,</hi> you're welcome into our Company.</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>Nay, pray Landlord, do not maſter me, you know I am no Gentleman.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel<g ref="char:punc">▪</g>
+                  </speaker>
+                  <p>Why, you are a Man, and you are Gentle; <hi>ergo,</hi> you are a Gentleman.</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>Sir, whoſoever you are, your <hi>Ergo</hi> ſounds like the Language of the Beaſt; and your Logick runs Arſeward; for if I be a man Gentle, it will not fol<g ref="char:EOLhyphen"/>low, that I am a Gentleman.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I perceive you are very ſcrupu<g ref="char:EOLhyphen"/>lous or very captious.</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>Whatever you call me Sr. my name is <hi>Shorthoſe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But what, Friend, have you no Chriſtian name?</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>Sr. I do not like Chriſtians in name; Thoſe Chriſtians in name, have quite ſpoil'd the name of Chriſtian<g ref="char:punc">▪</g> Give me a Chriſtian in Deed.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Nay, pray goodman <hi>Shorthoſe,</hi> be not ſo very exceptious, theſe Gentlemen are Friends of mine, and I am ſure de<g ref="char:EOLhyphen"/>ſign you no hurt.</p>
+               </sp>
+               <sp>
+                  <pb n="9" facs="tcp:101802:12"/>
+                  <speaker>Short.</speaker>
+                  <p>Goodman? Sir, I do not pre<g ref="char:EOLhyphen"/>tend to be a good man; I am full bad e<g ref="char:EOLhyphen"/>nough: If I be but a good Tenant, I hope it will ſerve your turn.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Yes, yes <hi>Simon,</hi> I own you to be a good Tenant: you do not ſcruple to pay your Rent, and that's enough to re<g ref="char:EOLhyphen"/>commend you to me; but I could wiſh you were more eaſie to your ſelf, than your ſcrupulous Temper does ſuffer you to be.</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>Why, you would no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> have me to digeſt Iron Sr. would you?</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Iron? I perceive you cannot di<g ref="char:EOLhyphen"/>geſt ſo much as a Feather.</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>A Feather! Sr. Feathers, as light as they are, are as hard to be digeſted as Iron, for ought I know. I'm ſure I had a good Cow choak'd with one of them the other day. I gueſs <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r. by the length of your Rayment, tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> you are of the breed of the <hi>Phariſees,</hi> and by the Complexion of it, that you are ally'd to the Prieſthood. Now I hear it is a great piece of Prieſt-craft at <hi>Rome,</hi> fro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whence perhaps you are come, to preſcribe things as hard to be digeſted as Iron<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and yet at the ſame time<g ref="char:punc">▪</g> to call 'em light things, and make the World to believe, they are
+<pb n="10" facs="tcp:101802:13"/> but Feathers. A Rapier is but a ſma<g ref="char:EOLunhyphen"/>thing, but it will run a man through; and even Feathers themſelves will choak.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I perceive Sr. <hi>Francis,</hi> that this man will prove my Patient. I ſuppoſe he is troubled with a narrow Throat, I have an Inſtrument that will bore it wider.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Nay Doctor, I rather think he is troubled with a ſhort-hos'd Conſci<g ref="char:EOLhyphen"/>ence, I will endeavour to cut it longer.</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>I thought what a Doctor you was Sir; rather than make the <hi>Blous</hi> leſs, you will make the Throat wider. And this you ſay you would do by boring it; I wiſh you do not mean cutting it, ma<g ref="char:EOLhyphen"/>ny mens Throats have been <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut, for no other fault that I know of, but becauſe they could not ſwallow well. And as for your cutting a Conſcience longer, Sr. nei<g ref="char:EOLhyphen"/>ther I, nor never a Taylor in the Town, I think, can underſtand that Notion. Ma<g ref="char:EOLhyphen"/>ny one I believe you have ſet upon the Tenters, and ſtretcht 'em till they gaſht again; But cutting of Conſciences lon<g ref="char:EOLhyphen"/>ger, I never heard of before. Sure, you rather belong to the Company of Cloth<g ref="char:EOLhyphen"/>workers, than Taylors. Certainly moſt men act by a publick Conſcience: For
+<pb n="11" facs="tcp:101802:13"/> if they acted by a private Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcience, it would inform 'em, that they ought not to impoſe upon other mens <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elief, any more than themſelves would be content to be impos'd upon by others.</p>
+               </sp>
+               <sp>
+                  <speaker>Large.</speaker>
+                  <p>A publick Conſcience, Neigh<g ref="char:EOLhyphen"/>bour <hi>Simon?</hi> why, what can be more ſafe or eaſie, or indeed reaſonable, than to act by a publick Conſcience? Safe I'm ſure it is; for then a man ſhall meet with no Diſturbances, nor Perſecutions in the World. Let my Conſcience be of the currant national ſtamp, and a fig for all Informers. Eaſie I'm ſure it is, it prevents a great deal of thoughtful<g ref="char:EOLhyphen"/>neſs, ſuperſedes many Diſputes and Con<g ref="char:EOLhyphen"/>troverſies, ſaves a great Labour of run<g ref="char:EOLhyphen"/>ning up and down to conſult Divines and Caſuiſts, and frees a man's M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd from the perplexing Thoughts of another world, when he knows that the King and Par<g ref="char:EOLhyphen"/>liament muſt anſwer for him. And to me it ſeems very reaſonable to.</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>Reaſonable? I believe nothing ſeems unreaſonable to a man of your Di<g ref="char:EOLhyphen"/>menſions. If a man had a Mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th wide enough, he might ſwallow Mil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-ſtones.</p>
+               </sp>
+               <sp>
+                  <speaker>Large.</speaker>
+                  <p>Nay, Neighbour <hi>Simon</hi> he muſt have a Throat proportionable, or it will
+<pb n="12" facs="tcp:101802:14"/> not go down. But as to the Reaſona<g ref="char:EOLhyphen"/>bleneſs of acting by a publick Conſci<g ref="char:EOLhyphen"/>ence, I pray hear what I have to ſay. You know we Countrymen are Idiots, home-ſpun, of no ingenuous Education, in no publick Employment, we are not our ſelves learned, we know not what their Hebrew, and Greek and Latin means: Is it not fit then, that we ſhould be rul'd by them that are Book-learn'd?</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>Book-learn'd? Away with this Letter-learning. If we cannot read Eng<g ref="char:EOLhyphen"/>liſh, we are Fools; and if the Learned Linguiſts have falſely tranſlated the Ori<g ref="char:EOLhyphen"/>ginal, they are Knaves. If they have dealt faithfully, we are as wiſe as they: if they have not, there is no reaſon to truſt them any more.</p>
+               </sp>
+               <sp>
+                  <speaker>Large.</speaker>
+                  <p>But I pray, Neighbour <hi>Simon,</hi> do we not truſt Phyſicians with our Bo<g ref="char:EOLhyphen"/>dies, and Parliaments with our Eſtates? And is it not as equal, that we ſhould truſt the Church with our Conſcien<g ref="char:EOLhyphen"/>ces?</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>For my part, Neighbour <hi>Lau<g ref="char:EOLhyphen"/>rence,</hi> I never truſted Phyſicians with my Body, nor never will. If Temperance and Exerciſe will not keep me alive, I will be content to die. As for Parlia<g ref="char:EOLhyphen"/>ments,
+<pb n="13" facs="tcp:101802:14"/> they are not a thing diſtinct from us, they are an Aſſembly of our ſelves, what they do, we do: I my ſelf ſit in Parliament at this hour, tho' I ſtand here prating with you. But I pray, who ever made ſuch bargain with, or gave ſuch Power to any number of Spiritual Men (as they love to be called) as to tax their underſtandings, or exciſe their Conſciences?</p>
+               </sp>
+               <sp>
+                  <speaker>Large.</speaker>
+                  <p>I do not know who did it; but your Conſcience is baſely exc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s'd or pre<g ref="char:EOLhyphen"/>cis'd or ſome cis'd or other to my think<g ref="char:EOLhyphen"/>ing; for it is not of the ſame ſize with other folks.</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>That's becauſe yours and theirs is of too large a ſize.</p>
+               </sp>
+               <sp>
+                  <speaker>Large.</speaker>
+                  <p>I know not what you call large<g ref="char:EOLhyphen"/>neſs of Conſcience. For my part I reck<g ref="char:EOLhyphen"/>on it a piece of liberty and generoſity not to ſtand in awe of any punctilio's; and a piece of humility and ſelf-denial to reſign up my judgment to my betters, and to believe as the Church believes.</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>I thought it would come to that at laſt. But if it be ſo, how can one chuſe but wonder for what Man was made with a Mind and Conſcience? Can one imagine that Man was made
+<pb n="14" facs="tcp:101802:15"/> with a Conſcience, that like a ſilly Ani<g ref="char:EOLhyphen"/>mal he might be pack-ſadled by every Driver, and ridden by every Jocky. He needed not to have a Conſcience put in<g ref="char:EOLhyphen"/>to him to qualifie him for ſuch ſervitude, ſure. In my opinion Conſcience is that to Men which chaſtity is to Women; loſe that, and loſe all; Farewell all Vertue, and all reſpect to things Divine or Humane. And who can deny but that it is prudent and ſafe to ſuſpect? Truſt not, and you will not be betray'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I confeſs, friend <hi>Shorthoſe,</hi> you have ſpoke a great deal of good ſenſe in what you have ſaid. It is a great vertue for a Man to be Prudent, Cautious and Inquiſitive: to believe by authority ra<g ref="char:EOLhyphen"/>ther than by argument, is the Religion of an Oxe, or the Conſcience of a Horſe, that obey their Drivers and their Riders. But yet ſure there is a mean; extream ſcrupuloſity renders a Man uneaſie to himſelf, unconverſable to his neighbour. Beſides, it argues weakneſs of apprehen<g ref="char:EOLhyphen"/>ſion, and an unmanly Cowardice.</p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>I pray Sir, do not judge me. If ſcrupuloſity be a fault, I'm ſure cenſo<g ref="char:EOLhyphen"/>riouſneſs is a greater. It is more tolera<g ref="char:EOLhyphen"/>ble to judge our ſelves than other men,
+<pb n="15" facs="tcp:101802:15"/> though we ſhould happen to be too ſe<g ref="char:EOLhyphen"/>vere. But I doubt I have ſpent too ma<g ref="char:EOLhyphen"/>ny words and too much time to little purpoſe. I hope my Landlord will not be offended; and as for you ſtrangers, I do not ſcruple at your diſpleaſure at all.</p>
+               </sp>
+               <stage>—<hi>Exit Shorthoſe.</hi>
+               </stage>
+               <sp>
+                  <speaker>Large.</speaker>
+                  <p>Farewell Neighbour <hi>Shorthoſe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Short.</speaker>
+                  <p>—Turns again, I do not make ſo much of my ſelf as you do.</p>
+               </sp>
+               <sp>
+                  <speaker>Large.</speaker>
+                  <p>I'm glad he's gone. I abhor this Puritanical ſqueamiſhneſs. It is not for us Country people to diſtinguiſh nice<g ref="char:EOLhyphen"/>ly, to know the cauſes and reaſons of things, to rack our Conſciences about every thing, nor indeed about any thing. I think it is enough for me to follow my guide, and to ride in company with my Neighbours; and in ſuch caſe, I wonder who ever troubled himſelf to enquire the way.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>It is very good indeed, friend, and an argument of an obedient, humble, peaceable, and ſelf-denying Mind, to have a great reſpect to our Superiors, and to have a deference to authority: for want of which ſome ſelf-conceited hu<g ref="char:EOLhyphen"/>mours and pragmatical Spirits have ſtrangely enflam'd the World, and un<g ref="char:EOLhyphen"/>hing'd
+<pb n="16" facs="tcp:101802:16"/> the Governments that they ought to have liv'd peaceably under. But yet I hope you are not ſo profligate, nor your Conſcience ſo proſtituted, that you would pin your Faith upon any Mans ſleeve whatſoever.</p>
+               </sp>
+               <sp>
+                  <speaker>Large.</speaker>
+                  <p>Really Sir if it were a Lawn Sleeve, I do not much care if I did.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>You do well to have a venerati<g ref="char:EOLhyphen"/>on for that Conſecrated kind of Linnen; but yet pray remember it is but Linnen, it is tender, and poſſibly may not bear ſo great a ſtreſs as you lay upon it. Obe<g ref="char:EOLhyphen"/>dience is good and laudable, but then it muſt not be blind. An eaſie, ductile, and tractable temper is commendable; but the tractableneſs of a Horſe, or of a Spaniel, are not commendable in a Man. Reaſon is our diſtinguiſhing character in<g ref="char:EOLhyphen"/>deed, but then it muſt be our own and not anothers.</p>
+               </sp>
+               <sp>
+                  <speaker>Large.</speaker>
+                  <p>I do not well underſtand your Learned ſayings, Sir, but yet I thank you for them; for I believe you mean well to me. And as to the main point, I fan<g ref="char:EOLhyphen"/>cy my Landlords Worſhip is much of my Mind, that a poor Tenant need not trou<g ref="char:EOLhyphen"/>ble his head about any thing, but getting his Rent ready at <hi>Lady day</hi> and <hi>Michael<g ref="char:EOLhyphen"/>mas.</hi>
+                     <pb n="17" facs="tcp:101802:16"/> I beg your leave to go to my Neigh<g ref="char:EOLhyphen"/>bours. Your humble ſervant Sir.</p>
+               </sp>
+               <stage>—<hi>Exit Large.</hi>
+               </stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Make much of your ſelf <hi>Lau<g ref="char:EOLhyphen"/>rence:</hi> but take heed my Ale do not do that by you, which I perceive never any Caſe of Conſcience could yet do<g ref="char:punc">▪</g> I mean, trouble your head.</p>
+               </sp>
+               <sp>
+                  <speaker>Large</speaker>
+                  <p>—Returns. My Head, Sir? I doubt your Hogſhead will ſuffer more than my Head.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>They are reſolved to be merry I perceive at the parting with their Mo<g ref="char:EOLhyphen"/>ney. I hope, Gentlemen, you will not be offended with their ruſtical and unpoliſht behaviour.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Oh no, Sir <hi>Francis.</hi> I pray let us ſee ſome more of them.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>
+                     <hi>Speed,</hi> Call in hither <hi>Benjamin Brag,</hi> and <hi>Harry Hart.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>Your Worſhip knows that theſe two Men can never agree.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>I pray thee hold thy Tongue: they will not fall out with us.</p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>I doubt they will fall out in your Worſhips preſence, and I ſhould be loth to ſee that diſturbance.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Go thy way. I doubt not but that theſe worthy Gentlemen will either
+<pb n="18" facs="tcp:101802:17"/> keep 'em from falling out, or ſoon make 'em fall in again. Nay I my ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f have ſo much authority, that if they ſhould hap<g ref="char:EOLhyphen"/>pen to fall aſunder, I can make them fall together again preſently.</p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>Together Sir? Ay together by th' Ears it may be<g ref="char:punc">▪</g>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Thou know'ſt <hi>Hart</hi> is of thoſe principles that he will not fight; and <hi>Brag</hi> I am ſure dare not. Take this for a Maxim, Vaporers are never good fight<g ref="char:EOLhyphen"/>ers. Go fetch 'em hither.</p>
+               </sp>
+               <stage>—<hi>Exit Speed.</hi>
+               </stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Gentlemen, theſe two Neigh<g ref="char:EOLhyphen"/>bours are alſo of a very different temper, but I think both in extreams. <hi>Ben. Brag</hi> is of a bold, conceited, over-weening temper, highly opinionated of his own abilities and undertakings. <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>arry Hart</hi> is mean Spirited, Cowardly, Puſillani<g ref="char:EOLhyphen"/>mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, eaſily run down by any confident Huff; he has ſcarce the courage of a Worm, to turn at him that treads upon him. But they are both good ſufficient Tenants. I would their tempers could be rectifi'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>It ſeems to me, Sir <hi>Francis,</hi> as if theſe Men would be put into my hands. For theſe different tempers of Mind do
+<pb n="19" facs="tcp:101802:17"/> mainly ſpring from different and diſeas'd temperaments of body. An undue mix<g ref="char:EOLhyphen"/>ture and dyſcracy of humour<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in the or<g ref="char:EOLhyphen"/>ganized Body do neceſſarily taint the diſ<g ref="char:EOLhyphen"/>poſition and operations of the Mind.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>But I fear for all tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Doctor, we ſhall have much ado to perſuade 'em to take Phyſick.—Enter <hi>Speed</hi> with <hi>Brag</hi> and <hi>Hart.</hi> They bow.</p>
+                  <p>Come Mr. <hi>Brag.</hi> I have deſir'd your company a little out of pure kindneſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>I thank your Worſhip, Sir <hi>Francis,</hi> tho' I aſſure you it is not the firſt time that many worthy Knights and Gentle<g ref="char:EOLhyphen"/>men have taken it for a kindneſs to have my company.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Not unlike Mr. <hi>Brag.</hi> But in<g ref="char:EOLhyphen"/>deed I meant kindneſs to you, not kind<g ref="char:EOLhyphen"/>neſs from you. If any thing <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il you in Mind or Body, here are worthy Gentle<g ref="char:EOLhyphen"/>men, that I believe can relieve you.</p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>Nay I thank my good Stars, Sir <hi>Francis,</hi> I am not brought to that paſs as to need to be reliev'd; tho' I my ſelf relieve many at my Gates daily.</p>
+               </sp>
+               <sp>
+                  <speaker>Hart.</speaker>
+                  <p>He means the Gates that lead into his fold-yard; for other Gates he has none, to my knowledge. And the poor that he relieves there, are nothing but his
+<pb n="20" facs="tcp:101802:18"/> poor Pigs, and a few Crow<g ref="char:punc">▪</g> trodden Hens.</p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>
+                     <hi>Harry,</hi> Thou art a Mouſe of a Man. I tell thee, my Mind to me a Kingdom is. If I pleaſe to cal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> my en<g ref="char:EOLhyphen"/>try a Porch, my Porch a Court, my Court a Square<g ref="char:punc">▪</g> my Houſe a Hall, or my Door Gates, they are all this to me<g ref="char:punc">▪</g> and the ſatisfaction I take in them will juſti<g ref="char:EOLhyphen"/>fie the appellation, and warrant the high<g ref="char:EOLhyphen"/>eſt phraſe I can uſe. For the content of my Mind is ſuch as admits of no hyper<g ref="char:EOLhyphen"/>bole.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>You are the happieſt Man that ever I met with, Sir, ſure your name is <hi>Nihil.</hi> For I never met with any thing that was <hi>ex omni parte beatum,</hi> but one Mr. <hi>Nihil.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>I know not what you mean by <hi>Nichils;</hi> I am no Latine Scholar. And I think it is well for all you Learned men that I am not: For if my Education had equall'd my ingenuity,—</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>What then, Mr. <hi>Brag?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>Why then Sir, perhaps I had been Sir <hi>Francis Freeman,</hi> and your wor<g ref="char:EOLhyphen"/>ſhip <hi>Benjamin Brag.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Methinks you are as free, yea as prodigal in your own commendation,
+<pb n="21" facs="tcp:101802:18"/> as if you had had all the Education in the World.</p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>And indeed Sr. <hi>Francis,</hi> bating the name, (which is but a poor thing) I think I am as much a <hi>Freeman</hi> as your worſhip, and as happy as any Man that dwells under the ſhadow of a Scepter, I have a Body of Braſs, and a Mind of Gold; my Conſtitution is healthful, my Diſpoſition harmleſs, and my Reputation ſpotleſs. I can work as induſtriouſly as an Ox; when that's over, I can play as wantonly as a Calf. In the night I ſleep like a Top, in the morning I fly abroad like a Gigg I can eat like a Horſe, and drink like an Ox, and yet not make a Beaſt of my ſelf by either eating or drink<g ref="char:EOLhyphen"/>ing. My Mind is vertuouſly diſpos'd: I hate no man, I deſpiſe no man, I envy no man, I admire no man. I have no Enemies that I know of; If I have, I wiſh they were my friends. I have a chaſt and loyal wife, dutiful and obedi<g ref="char:EOLhyphen"/>ent children, diligent and faithful ſer<g ref="char:EOLhyphen"/>vants, peaceable and kind Neighbours. And now, Sir <hi>Francis,</hi> give me but leave to add to all theſe ſuch a Landlord as I deſire, and what fleſh upon Earth hap<g ref="char:EOLhyphen"/>pier than <hi>Ben.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="22" facs="tcp:101802:19"/>
+                  <speaker>Free.</speaker>
+                  <p>You mean a Landlord that would look for no Rent, I warrant.</p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>Nay for looking, if that were the worſt, let him look his Eyes out if he will: but this ſtraining; oh this ſtrain<g ref="char:EOLhyphen"/>ing puts the poor Tenant to the greateſt diſtreſs of any thing. I would the King would call a Parliament of Tenants, we would ſoon redreſs this grievance.</p>
+               </sp>
+               <sp>
+                  <speaker>Hart.</speaker>
+                  <p>Nay pray, Mr. <hi>Brag,</hi> let Te<g ref="char:EOLhyphen"/>nants be content to be Tenants ſtill. He that is Mr. <hi>Brag</hi> whilſt he is a Tenant what would he be if he were a Land<g ref="char:EOLhyphen"/>lord?</p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>Why what would he be, doſt thou think man?</p>
+               </sp>
+               <sp>
+                  <speaker>Hart.</speaker>
+                  <p>I doubt he would add ſorae<g ref="char:EOLhyphen"/>what, and lengthen himſelf out to Brag<g ref="char:EOLhyphen"/>gadochio.</p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>I believe thou waſt ha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cht un<g ref="char:EOLhyphen"/>der an Hen, <hi>Harry,</hi> and car'ſt not to be trodden by every Crow.</p>
+               </sp>
+               <sp>
+                  <speaker>Hart.</speaker>
+                  <p>Nay, But I think it is good to know my own breed, and herd with my own kind<g ref="char:punc">▪</g> It is a dangerous thing for Aſſes to aſſociate themſelves with <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orſes, much more with Lions. It is not for every back to bear the great burdens of Worſhip and Lordſhips. Me<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n men
+<pb n="23" facs="tcp:101802:19"/> would bow down, yea be quite broken under them.</p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>Ay ſuch mean-ſpirited fellows as thou art. But I would my Landlord would try me with his Worſhip and his Lordſhips, he ſhould ſoon ſee how I could cudge away with'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But what, Sir, is there <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o inſir<g ref="char:EOLhyphen"/>mity of Body or Mind, no inconve<g ref="char:EOLhyphen"/>nience in your life, that you would have remedy'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>Sir, if any thing ail'd me d I would not complain of it; eſpecially <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> would not whine to ſtrangers. I have if occa<g ref="char:EOLhyphen"/>ſion be, counſel in my ſelf, both for Bo<g ref="char:EOLhyphen"/>dy and Mind, I need no Phyſician nor Divine. But if you will needs be med<g ref="char:EOLhyphen"/>ling, or that you are ſo charitably diſ<g ref="char:EOLhyphen"/>pos'd, there's a poor Sheepiſh Neigh<g ref="char:EOLhyphen"/>bour whom you wil do well to relieve. I believe he'll dye of the rot ſhortly, if he be not reliev'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Hart.</speaker>
+                  <p>Yes indeed, Gentlemen: I am a poor Snake, a ſilly ſheep, a vermine, as much leſs than a Man, as a man is than a Mouſe, my Body is diſeaſed, my Mind diſcompoſed, ſtrangers deſpiſe me, Neighbours oppreſs me,. Neighbours oppreſs me, I cannot be at peace with my ſelf, I dare not fall out
+<pb n="24" facs="tcp:101802:20"/> with other folk. My days are weari<g ref="char:EOLhyphen"/>ſome, my nights are wakeful, my Wife indeed ſmiles, but I think it is at my folly, and when my Children laugh, I think they laugh me to ſcorn, my Land<g ref="char:EOLhyphen"/>lord, I thank his noble Worſhip, is very kind to me, but I am troubled to think it will not laſt long.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Why <hi>Harry,</hi> you are a good Te<g ref="char:EOLhyphen"/>nant, you pay punctually, you keep good repairs, you have a good ſtock, you are a good Husband with it, and it proſpers well under your hands. Why are you ſo diſ<g ref="char:EOLhyphen"/>content and timorous? you want nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Hart.</speaker>
+                  <p>Ah Sir, but I ſhall want. The worſt is to come yet. I ſhall want in my old age, when I ſhall not be able to relieve my ſelf, and I know of nobody that will relieve me.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Let not that trouble you friend, perhaps you may never live to be old.</p>
+               </sp>
+               <sp>
+                  <speaker>Hart.</speaker>
+                  <p>Ah Sir, that troubles me too. For if I ſhould dye young, what would become of my Wife and Children?</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I never met with ſuch a cowardly fellow in my life, that dare neither live nor dye, that dare neither live long nor dye young. Here<g ref="char:punc">▪</g>s no room for Phyſi<g ref="char:EOLhyphen"/>cal Preſcriptions. If he had a deire to live,
+<pb n="25" facs="tcp:101802:20"/> I could help him; if he had a mind to die, I could haſten him. But I know not what to ſay or to do to ſuch a Coward as this.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>But I pray Doctor, is there no help for the caſe of theſe Ne<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghbours.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Indeed, Sr. <hi>Francis,</hi> your Neigh<g ref="char:EOLhyphen"/>bour <hi>Brag</hi>'s Humors are ſo ſtubborn, that I doubt no Phyſick will work upon them: And your Neighbour <hi>Hart</hi>
+                     <g ref="char:punc">▪</g>s ſo thin, that I doubt there is no filling 'em. or bringing them to a Conſiſtency.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>That's ſtrange. Cannot one take the ones wild Oats, and the others Vetches? and ſow 'em together, and make good pullymugs of 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I do not underſtand that rural kind of Phyſick, Sr. <hi>Francis.</hi> But I will tell you what I can do, I can make a Transfuſion of ſome of Mr. <hi>Brag</hi>'s fiery Blood, into Mr. <hi>Hart</hi>'s Veins, and ſome of Mr. <hi>Hart</hi>'s weak watery Blood, into Mr. <hi>Brag</hi>'s Veins, and ſo make a Temperament.</p>
+               </sp>
+               <sp>
+                  <speaker>Brag</speaker>
+                  <p>Say you ſo, Sir? But I will have no ſuch ſheepiſh blood run in my Veins.</p>
+               </sp>
+               <sp>
+                  <speaker>Har.</speaker>
+                  <p>I thank you Sir, but I deſire no Man's Blood; neither can I endure to ſee my own.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I pray Gentlemen, take ſome
+<pb n="26" facs="tcp:101802:21"/> moral Advice then; and you Man, re<g ref="char:EOLunhyphen"/>member that you are but a Worm; and you Worm, remember that you are a Man.</p>
+               </sp>
+               <sp>
+                  <speaker>Brag.</speaker>
+                  <p>As if I ſhould ſay, you Father, remember you are but a Child, and you Child, remember that you are a Father of Children. Come, come <hi>Harry,</hi> let them talk of Transfuſion as long as they will, Go with me into my Land<g ref="char:EOLhyphen"/>lord's Celler, and I will infuſe ſome bet<g ref="char:EOLhyphen"/>ter Blood into thee.</p>
+               </sp>
+               <stage>—He takes him by the Hand—<hi>Exeunt.</hi>
+               </stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> doubt he will make a worſe Beaſt of him than a Worm; if the company do not over-rule him, he'll make him that he cannot crawl, and then he will loſe his worm-hood as well as his manhood.</p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>There<g ref="char:punc">▪</g>s no danger of that, if it pleaſe your Worſhip. The Butler has a ſtrict Charge to ſee that they drink no health but their own.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>That's very well. I pray thee, <hi>Speed,</hi> then go and invite Mr. <hi>Spruce</hi> and Goodman <hi>Gray</hi> hither.</p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>Your Worſhip does match 'em ſo ſtrangely, that I doubt you will make them fall together by the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ars. For
+<pb n="27" facs="tcp:101802:21"/> thoſe two men cannot ſet up their Horſes together.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>But I'll keep 'em from fighting, or I'll ſet 'em by the heels together. Have not I taught thee this piece of Lo<g ref="char:EOLhyphen"/>gick, <hi>Oppoſita juxta ſe poſita magis ela<g ref="char:EOLhyphen"/>ceſcunt?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>Your Worſhip has many wiſe Sayings in the year, which I am little the wiſer for; but I will go fetch 'em before your Worſhip—<hi>Exit.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Gentlemen, you will find theſe men in Extremes too. The one of 'em is ſo finnical and complimental, that a Hair muſt not grow upon his Head, nor a Word come out of his Mouth awry. The other, ſo plain and home-ſpan, that you will not believe him ever to have been at the Barber's ſhop, nor at the School till now.—<hi>Enter Speed</hi> with <hi>Spruce</hi> and <hi>Gray.</hi> You<g ref="char:punc">▪</g>re welcome Mr. <hi>Spruce,</hi> and you alſo goodman <hi>Gray,</hi> I do not wiſh any thing to ail you; But if any thing do, I hope here are Gentlemen that will heal you.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>Your humble Servant, Sr. <hi>Francis<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> It is your more than Humanity, to invite us to the Acquaintance of theſe worthy Perſons. And if they will help us in any
+<pb n="28" facs="tcp:101802:22"/> thing, it is more their Goodneſs than our Deſert.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>I pray Mr. <hi>Spruce,</hi> ſpeak for your ſelf. I think I have deſerv'd at the hands of any man living, as much as he has de<g ref="char:EOLhyphen"/>ſerv<g ref="char:punc">▪</g>d at mine, Bleſs the King and my Landlord.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>I think you'll never ceaſe to be a Clown, till you ceaſe to be—</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>That was wittily ſpoken indeed; I ſhall never ceaſe to be, till I ceaſe to be—</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>He means, till you ceaſe to have a Being.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>He means? It is your Worſhips Wit to gather Means. For my part, I am a poor man, and know no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> what folk meanen but by what they ſpeaken. But I pray, Landlord<g ref="char:punc">▪</g> what ha' theſe fine Gen<g ref="char:EOLhyphen"/>tlemen to ſay to us? They are none of thoſe folk they callen Parliament-men I hope: they ſay they are in Power now.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>No, no, Friend, we are no Tax<g ref="char:EOLhyphen"/>makers, nor Tax gatherers. But if any thing be amiſs with you in Body or Mind, we are ready to ſerve you to the utmoſt of our power, freely.</p>
+               </sp>
+               <sp>
+                  <pb n="29" facs="tcp:101802:22"/>
+                  <speaker>Spr.</speaker>
+                  <p>Oh bleſſed thing! That this laſt and degenerate Age of the World ſhould turn out any ſuch generous Souls!</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>Turn out? I think Mr. <hi>Spruce,</hi> ne<g ref="char:EOLhyphen"/>ver any Age turn'd out more generous Souls, than this has done. I'm ſure thoſe that were turn'd out, did a great deal more good, than they that were put in.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>I hope, noble Gentlemen, you will not be offended with the plain Talk and courſe Wit of my Neighbour <hi>Gray.</hi> He does not pretend to fine-ſpinning.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>I think Mr. <hi>Spruce,</hi> you was ſpun ſo fine, that you had like to have been twitter'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>Neighbour <hi>Gregory,</hi> I am fine and true ſpun. Every Thread of my Life, every Line of my Language, is as even as any Hair of my Head.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>As for your Language, Mr. <hi>Spruce,</hi> I think if you do but ſpeak truly and kindly, it's fine enough of all Conſci<g ref="char:EOLhyphen"/>ence. As for the Threads of your Life, my Neighbours, <hi>Iſaac</hi> and <hi>Eph<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aim</hi> the Weavers, can judge better than I; for they know your Warp, as well as your Woof. But indeed, I think either of 'em may ſoon be as even as the Hairs of your
+<pb n="30" facs="tcp:101802:23"/> Head; for I do not know any you have.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>Why, what are you Gray-Ey'd too? do not you ſee I have Hairs on my Head?</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>I ſee you have Hairs upon your Head, but I much queſtion, whether you have a Hair of your Head, I doubt they are all borrow'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>Borrow'd! I ſcorn your words, I bought 'em all.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>Yea, ſo I think. But for all that, I doubt they are all borrow<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d. And if every Where and Jade on which they once grew, could come and challenge their own, I doubt you would be laught at as bad as the Crow in the Story.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>I doubt goodman <hi>Gray,</hi> you have read the Engliſh <hi>Eſop's Fabies.</hi> But I pray, what have you to ſay againſt Pe<g ref="char:EOLhyphen"/>riwigs? for I know you reflect upon them.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>Indeed Mr. <hi>Spruce,</hi> I do not uſe to trouble my Brains about other folks Heads, nor my Head about other folks Hairs. But to tell you plainly, as the man ſaid of the Wooden Deity, I do not like 'em. I think they ſmellen of Popery: for if it were not for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>haven
+<pb n="31" facs="tcp:101802:23"/> Crowns, I think we ſhould have no falſe Locks.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>Popery, man? Bleſs me from Po<g ref="char:EOLhyphen"/>pery 4. And pray <hi>Gregory,</hi> what if the Po<g ref="char:EOLhyphen"/>piſh Prieſts be ſhavelings, will it thence follow, that either the Engliſh Prieſts or Peo<g ref="char:EOLhyphen"/>ple are Popiſh becauſe they are ſhavelings?</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>No Sir, but I think they that throw away their own Hair, and then are forc't to buy other folks, to cover their Nakedneſs, are very prodigal. And if they do it for no other cauſe, but Modiſhneſs, it is apiſh and odious Va<g ref="char:EOLhyphen"/>nity.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>Apiſh? Ha, Apiſh? why I pray <hi>Gregory,</hi> whom do they imitate?</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>I think Sir, they imitate the French Catamites, whom this preſent Age does ſo foppiſhly dote upon in all things, that to me it bodes very ill. And what can one expect better, than that all frenchify'd Heads, ſhould be ſubject to the French Crown? Beſides, Sr. the Prodigality of this Trick is as odious as the Vanity of it. I believe, for your part, your Hair coſts more in the year, than your Head's worth. A Barber that adorns the Head with Hair, is a better Trade than a Schoolmaſter, that
+<pb n="32" facs="tcp:101802:24"/> furniſhes it with Brains. I would I were Mr. Parliament for one Seſſion Inſtead of a Poll-Bill, I would make a Per<g ref="char:EOLhyphen"/>wig-Bill: And if I ſhould lay it but low, I believe it would furniſh the King with Money enough for the next Cam<g ref="char:EOLhyphen"/>paign.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>And do not you think, that my Curled-Locks, are more decent than your unfaſhionable Briſtles?</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>In ſuch Briſtles as theſe I have heard, that the great <hi>Julius Caeſar</hi> marcht before his Army over the cold Moun<g ref="char:EOLhyphen"/>tains: And thus briſtled, did all the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Dictators and Generals perform all their Great and Hardy Exploits. Oh rare Improvement! <hi>Grecian</hi> Helmets turn'd into French Periwigs. and do not they agree bravely? til'd Houſes and thatcht Heads.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>I know <hi>Gregory,</hi> you are an old faſhion'd Fool, and 'tis to no purpoſe to talk to you.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>I know Mr. <hi>Spruce,</hi> you are a new faſhion'd Fop, and 'tis in vain to anſwer you. You are ſo fi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nical forſooth, and ſo complimental, that one ſcarce knows whether he is Inlander or Outlander, Engliſh or French; nay, ſcarce whether
+<pb n="33" facs="tcp:101802:24"/> you be Monſieur or Madam. This I am ſure of, you have not ſo much as an Hair of any honeſt Man, growing either upon your Head or Face.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>This I am ſure of, that you are a fordid Clown. I was born under the auſpicious Planet of <hi>Jupiter.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>They ſay he was the greateſt Whore-maſter in the World.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>And under the auſpicious Aſpect of the ingenious Mercury.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>The Errandeſt Knave and Thief in nature.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>What will this blaſphemous Fel<g ref="char:EOLhyphen"/>low make of my Stars by and by? I was bred up in the moſt Advantagious Circumſtances of Education: that what by Nature, and what by Art, I may be very well call'd double-refin'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>I fancy Mr. <hi>Spruce,</hi> you were cut out for a Sugar-loaf.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>And what I pray, what was you cut out for, <hi>Gregory?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>A lump of brown Sugar-Candy, if it pleaſe you Sr.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>A lump of dirt rather. You are <hi>Gray</hi> by Name, Nature, Manners, Apparel, all over <hi>Gray, Gray, Gray, Gray.</hi> Your Coat
+<pb n="34" facs="tcp:101802:25"/> home-ſpun, your Behaviour courſe, and Temper courſeſt of all.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Gentlemen, you talk of fine ſpin<g ref="char:EOLhyphen"/>ning, and courſe ſpinning, but me thinks I have ſeen Linnen and Woollen agree better in one piece of Cloth, than you two agree in Converſation.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>Ay Sir, Linſye-woolſy is a good ſort of Cloth: my old <hi>Jone</hi> has Aprons of it, that wear very well. But I doubt it would paſs the skill of any Weaver or Barber in Town, to make up a Pe<g ref="char:EOLhyphen"/>riwig of Whores Hair and Swines Bri<g ref="char:EOLhyphen"/>ſtles; or to make Velvet of a Sows Ear.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But yet friend, me thinks if Mr. <hi>Spruce</hi> were a little more <hi>Gray,</hi> and Goodman <hi>Gray</hi> a little more <hi>Spruce,</hi> you might make up one good even Thread between you.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>Sir, I tell you, I would not be a Clown, for all my Landlords Eſtate.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>Sir, I tell you, I would not be ſo Spruce as Monſieur, to be as great as he, if I were ſure to be made Univerſal Monarch.</p>
+               </sp>
+               <sp>
+                  <speaker>Free</speaker>
+                  <p>I ſee Father <hi>Caſye,</hi> that <hi>Spruce</hi> will be <hi>Spruce,</hi> and <hi>Gray</hi> will be <hi>Gray</hi> ſtill in ſpight of all the Taylors, Bar<g ref="char:EOLhyphen"/>bers
+<pb n="35" facs="tcp:101802:25"/> and Manner-mongers in the World<g ref="char:punc">▪</g> If you pleaſe, we will leave theſe men, the one to his old <hi>Mumpſimus,</hi> the o<g ref="char:EOLhyphen"/>ther to his new <hi>Sumpſimus,</hi> and I will ſend for ſome others in, of whoſe Cure there may be more hopes. I pray Sirs, go in, and make much of your ſelves, drink together and be friends.</p>
+               </sp>
+               <sp>
+                  <speaker>Spr.</speaker>
+                  <p>I thank your Worſhip Sr. that u<g ref="char:EOLhyphen"/>ſes to make men friends, but doubt it will make us fall out the more; he drinks ſo old faſhionedly and ſlovenly, that he will ſlabber in the Glaſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Gr.</speaker>
+                  <p>You had more need to wipe your Mouth after your Slander, than I after my Slabber. I will never be reconcil'd to Pride whilſt I live. I'll ſee all their Periwigs made into fiſhing Lines, and their Cravats into Halters before——<hi>Exeunt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>My worthy friends, I'm ſorry that you have only Exerciſe for patience, and none for skill. <hi>Speed,</hi> call in hither <hi>Anth. Angier</hi> and <hi>Lawrence Lamb.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>—And <hi>Lawrence Lamb.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>I doubt your Worſhip will not mend the matter, by that pair. I doubt your Worſhips Ale, has had ſome influence upon <hi>Anthony</hi> already; for I
+<pb n="36" facs="tcp:101802:26"/> heard him quarrelling and ſnarling when I was laſt in the Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>You cannot tell, but he may be a little mellow'd by this time: And then if <hi>Lamb</hi> be but a little ſharpned, as ſome<g ref="char:EOLhyphen"/>times it comes to paſs, they may meet in a Temper. Go your way, we will try 'em.</p>
+               </sp>
+               <stage>—<hi>Exit Speed.</hi>
+               </stage>
+               <sp>
+                  <speaker>Hely.</speaker>
+                  <p>Sir <hi>Francis,</hi> you ſuggeſt a great Notion, and I think I may ſay, a ſtrange <hi>Phaenomenon</hi> in Nature. For really, I think there is nothing more unaccoun<g ref="char:EOLhyphen"/>table in the nature of man than that wonderful <hi>Metamorphoſis,</hi> which is made by intoxicating Liquors. One would verily think, it were an Enchantment. It makes the Coward bold and quarrel<g ref="char:EOLhyphen"/>ſome without provocation; the Modeſt, Obſcene and Rampant, without any temp<g ref="char:EOLhyphen"/>tation; the Covetous, and Penurious, Prodigal without reaſon; the faithful Counſeller ſliftery and impertinent out of ſeaſon, and many other ſuch ſtrange pieces of Witchraft it does perform. Some<g ref="char:EOLhyphen"/>times it ſhuts the Mouth, that men can<g ref="char:EOLhyphen"/>not ſpeak at all; ſometimes it opens the Heart, that they ſpeak all, and more than all. It makes the merry Melancho<g ref="char:EOLhyphen"/>lick, the Melancholick mad: It makes
+<pb n="37" facs="tcp:101802:26"/> the meaneſt Subject as good as a King, and the greateſt King, as mean as a Beaſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>It is true, what you ſay Doctor; and I believe with you, as well as amongſt us, it is unaccountable. But it is a rul'd caſe amongſt us, that though ſtrong Drink does diſcover Tempers, it does not make 'em, and that men had in 'em before, what they then bring forth: according to the old <hi>Maxim, Nihil dat quod non habet.</hi>—Enter <hi>Speed,</hi> with <hi>An<g ref="char:EOLhyphen"/>gier</hi> and <hi>Lamb.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Come <hi>Anthony,</hi> you are apt to complain, when it may be nothing ails you; or at leaſt, when there is no bo<g ref="char:EOLhyphen"/>dy to relieve you. But now here are Gentlemen, that if you have any fault to find, I believe will remedy it.</p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>What a goodly Harangue have you made Landlord? If I ſhould bring ſuch a parcel of words inſtead of my <hi>Mich.</hi> Rent, I doubt I ſhould be reckon'd to be in Arrear ſtill. I am apt to complain, you ſay, when nothing ails <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce. Why this ails me, ay, and vexes me too, that I am poor <hi>Anthony</hi> the Tenant, and you are Sir <hi>Francis</hi> the Landlord; and I work hard, and you do nothing for it. When
+<pb n="38" facs="tcp:101802:27"/> there is no body to relieve me, you ſay. I hope I do not yet need to be reliev'd by the Pariſh: there are enough that do; ſo many, that I fear ſhortly, the Pariſh it ſelf will fall to ſome other Pariſh to be reliev'd. But here are Gentlemen, you ſay, that if I have any fault to find, you believe will remedy it. E'en let 'em be gone then: for this is the fault that I find, that there are any more Gentlemen here, we have too much of you. Theſe are pitiful Gen<g ref="char:EOLhyphen"/>men ſure, that offer to remedy people that have no diſeaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Lamb.</speaker>
+                  <p>Something ails you <hi>Anthony,</hi> I doubt; what makes you ſo angry at eve<g ref="char:EOLhyphen"/>ry body elſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>Every body? Ha! you three or four are every body, I warrant, nay, you Neighbour <hi>Lamb</hi> pretend to be ſome body too, do you?</p>
+               </sp>
+               <sp>
+                  <speaker>Lamb.</speaker>
+                  <p>Yes <hi>Anthony,</hi> I am ſome body ſure, tho I am but a mean Per<g ref="char:EOLhyphen"/>ſon.</p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>I know not what you call a Per<g ref="char:EOLhyphen"/>ſon: I take you to be a Sheep.</p>
+               </sp>
+               <sp>
+                  <speaker>Lamb.</speaker>
+                  <p>I may be in time; for I am <hi>Lamb</hi> already.</p>
+               </sp>
+               <sp>
+                  <pb n="39" facs="tcp:101802:27"/>
+                  <speaker>Ang.</speaker>
+                  <p>Away with you; Lambs are out of ſeaſon: They are Lamb-hegs now.</p>
+               </sp>
+               <sp>
+                  <speaker>Lamb.</speaker>
+                  <p>It may be I partake of both, <hi>Anthony.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>Not unlike <hi>Lawrence, i. e.</hi> the fillineſs of a Sheep, and the ſordidneſs of a Swine.</p>
+               </sp>
+               <sp>
+                  <speaker>Lamb.</speaker>
+                  <p>My ſillineſs any body may ſee: But as for ſordidneſs, I do not acknow<g ref="char:EOLhyphen"/>ledge it: me thinks I am pretty neat.</p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>Ay, if thou wert well tann'd, I think thy skin would be Neats Lea<g ref="char:EOLhyphen"/>ther.</p>
+               </sp>
+               <sp>
+                  <speaker>Lamb.</speaker>
+                  <p>I doubt you call me Calf too by craft, but I pray good Neighbour, what reaſon have you to be ſo angry?</p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>Thou ſilly Sheep! Reaſon to be angry? Do folk uſe to be angry by Reaſon, or Rules of Art? He is a ſilly Sheep, or a fooliſh Neat like thee, that cannot be angry without Reaſon. I tell thee I am angry, and that's enough. But if thou wilt needs have a Reaſon, I tell thee, I am angry at thee, for not being angry.</p>
+               </sp>
+               <sp>
+                  <speaker>Lamb.</speaker>
+                  <p>Angry? Alas! I ſee nothing to be angry at.</p>
+               </sp>
+               <sp>
+                  <pb n="40" facs="tcp:101802:28"/>
+                  <speaker>Aug.</speaker>
+                  <p>See nothing to be angry at? Why then thou canſt not ſee at all, put on my Spectacles, and thou wilt ſee nothing, but what thou oughteſt to be angry at.</p>
+               </sp>
+               <sp>
+                  <speaker>Lamb.</speaker>
+                  <p>I pray, Neighbour <hi>Angier,</hi> con<g ref="char:EOLhyphen"/>ſider, we have a Puiſſant King, a Pru<g ref="char:EOLhyphen"/>dent Parliament, a Pious Clergy, both <hi>pro</hi> and <hi>con,</hi> a gentle Landlord, good Penny-worths, Convenient Houſes, Comfortable Relations, peaceable Neigh<g ref="char:EOLhyphen"/>bours, and what ſhould fret us?</p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>—Stamps. Oh! theſe peacea<g ref="char:EOLhyphen"/>ble Neighbours are enough to vex any body, who can endure to live, and mould? To lie and ruſt, for want of a little whetting and ſharpning. And do but ſee how your ſilly ſheepiſh Fancy can digeſt any thing. If you had any Con<g ref="char:EOLhyphen"/>cern for the World, as we brisker men have, you would ſay, we have a King (it's true) that's no Child; but he's childleſs. We have a Parliament that are no fools; but they may make fools of us. We have a Pious Clergy (eſ<g ref="char:EOLhyphen"/>pecially about <hi>Chriſtmas</hi> time) what you mean by your <hi>pro</hi> and <hi>con,</hi> I cannot well tell; but according to my little Latin, it ſhould be <hi>pro mundo,</hi> and <hi>contra Chri<g ref="char:EOLhyphen"/>ſtum.</hi>
+                     <pb n="41" facs="tcp:101802:28"/> We have a gentle Landlord, but he calls for his Rent for all that. We have good penny-worths, but we pay dear for 'em. We have convenient Houſes; but they coſt a great deal to keep in re<g ref="char:EOLhyphen"/>pair. We have comfortable relations too forſooth; but I'm ſure they are very coſtly, if yours be like mine.</p>
+               </sp>
+               <sp>
+                  <speaker>Lamb.</speaker>
+                  <p>I ſee, Neighbour, you have a mind to pick a quarrel with every Man and every thing. But I pray how can you ſay, we have good penny-worths, and yet pay dear for 'em?</p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>Dear? we pay the ſweat of our brows, and I know not what our Land<g ref="char:EOLhyphen"/>lord would have of us more, except he would have the blood in our Veins.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I perceive Sir <hi>Francis</hi> you have call'd this man in at a wrong time of day, or on a wrong day, the one. He has been newly paying his Rent and that puts him out of humour: He does as good as tell you, he parts with his Mo<g ref="char:EOLhyphen"/>ney like drops of his Blood.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>That need not trouble him: He'll get new blood by <hi>Lady d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>Ay, and then that Horſe-leach of a Landlord will ſuck him again.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>I had hop'd that a Glaſs of Ale
+<pb n="42" facs="tcp:101802:29"/> would have digeſted the Payment of your Rent, before now. They ſay Ale heats the Stomach and ſo helps digeſti<g ref="char:EOLhyphen"/>on.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel,</speaker>
+                  <p>I doubt Sir <hi>Francis,</hi> yours had heated more than his Stomach.</p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>You are ſome ſorry kind of Doctor I warrant, that differs but little from Dog-turd.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Fye, Fye <hi>Anthony,</hi> if you muſt needs be angry, yet be not naſty.</p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>Naſty? I doubt your Worſhip will not give the Country-man leave to call his Spade a Spade? Naſty? Ha! I warrant to gratifie your worſhips ſquea<g ref="char:EOLhyphen"/>miſhneſs, I muſt call the Gentleman <hi>Album Graecum.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Friend, However Sir <hi>Francis</hi> is ſqueamiſh, I'mſure you are ſc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rilous.</p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>How is that Sir Reverence? Currilous? I pray what's that Curri<g ref="char:EOLhyphen"/>lous? I doubt you mean Curr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h. But if you do, I matter not. A ſnappiſh Cur is as good as a Lazy one; a cruſty Cur as good as a Cur that will be brib'd with a craft. But I believe you can Bark too, when you are minded. You are one of thoſe that can Bark at the Sheep, and be ſilent at the Wolves.</p>
+               </sp>
+               <sp>
+                  <pb n="43" facs="tcp:101802:29"/>
+                  <speaker>Hel.</speaker>
+                  <p>I doubt Sir <hi>Francis,</hi> you muſt be at ſome charges with this man in <hi>Bed<g ref="char:EOLhyphen"/>lam.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ang.</speaker>
+                  <p>I need not go far to ſeek that, if a Company of Madmen will make a <hi>Bedlam.</hi>
+                  </p>
+               </sp>
+               <stage>—<hi>Exit Angier</hi> in a Paſſion.</stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Farewell Frenzy. As for your part <hi>Laurence,</hi> I am glad to find that you are ſo eaſie and all nothing. Here is no practice for either of theſe Gentlemen upon you.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Nay good Sir <hi>Francis,</hi> It is ſome<g ref="char:EOLhyphen"/>times Vertuous to be angry, upon occa<g ref="char:EOLhyphen"/>ſion: And I doubt no man lives but ſome<g ref="char:EOLhyphen"/>times finds occaſion.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Yea and it is healthful too; ſo it be not raging. Winds, yea brisk Winds are good for purging t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Air; and ſo are paſſions for diſcuſſing ill hu<g ref="char:EOLhyphen"/>mours in the body, and patting it into a right ferment; ſo they do not amount to tempeſts.</p>
+               </sp>
+               <sp>
+                  <speaker>Lamb.</speaker>
+                  <p>I pray Gentleman, do not go about to diſturb me with your Divinity or Philoſophy. I value an even and eaſie temper above all the vertuouſneſs and healthfulneſs that you ſpea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en of; or rather indeed, I eſteem it to be the
+<pb n="44" facs="tcp:101802:30"/> only temper vertuous and healthful. If I could be angry at any man or thing, it would be at that man that Counſels me to anger, and at his Counſel. There<g ref="char:EOLhyphen"/>fore I humbly bid you all farewel.</p>
+               </sp>
+               <stage>—<hi>Exit Lamb.</hi>
+               </stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>They are ſo croſs-grain'd, that I ſee there is no calling 'em in by pairs. I beg your pardon Gentlemen, and I will endeavour to prevent this diſturbance for the future. <hi>Speed.</hi> Call in hither <hi>Witt Wake;</hi> It is very likely ſomething or other ails him.</p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>I doubt ſo Sir, for I ſaw him yonder with his Head lapt.</p>
+               </sp>
+               <stage>—<hi>Exit Speed.</hi>
+               </stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>This poor Man is in miſerable ſubjection to a domineering Wife, that Hectors him like a Male-pert baggage, or a Fury rather. And I know not what to do to relieve him.</p>
+                  <stage>—Enter <hi>Speed</hi> with <hi>Wake.</hi>
+                  </stage>
+                  <p>Why how now <hi>Witt?</hi> Haſt thou drunk Ale <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ead akes?</p>
+               </sp>
+               <sp>
+                  <speaker>Wake.</speaker>
+                  <p>Alas Sir, It is the Ladle, and not the Liquor that makes it ake. My Tormenter has been with me when I thought no hurt, and becauſe I did not come away as ſoon as I had paid my Rent,
+<pb n="45" facs="tcp:101802:30"/> has paid me with a ſore rent in my Pate.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Alas poor <hi>Witt!</hi> I promiſe thee, if I had been there, I would have clapt her in the Cage, and cool'd her Toes.</p>
+               </sp>
+               <sp>
+                  <speaker>Wake.</speaker>
+                  <p>Ah Sir, She's a Bird not wor<g ref="char:EOLhyphen"/>thy of a Cage. But if you had put her in the Cage, ſhe would have ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng you a leſſon there, that ſhould have made all the Town to ring of you. And as for cooling her Toes, her Toes are cold enough already. But her hands, oh her hands! ſhe is ſo hot-ſinger'd that I am not able to live with her.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>It's wonder thy Horns did not ſave thy Head.</p>
+               </sp>
+               <sp>
+                  <speaker>Wake.</speaker>
+                  <p>I doubt not Sir, but ſhe has made more Horns on my Head, than Knobs. For when ſhe beats me out of Bed, and out of Doors a Nights, I queſti<g ref="char:EOLhyphen"/>on not but it is to make room for other company.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I have hear'd of a diſeaſe in Men, call'd Henpeckt; but I never thought the Hens had peckt ſo deep, as to ſend their Husbands to the Chirurgions.</p>
+               </sp>
+               <sp>
+                  <speaker>Wake.</speaker>
+                  <p>Ah Sir, peck deep? M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne pecks ſo deep that I believe ſhe will peck out my Brains ſhortly.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But what, friend, cannot you
+<pb n="46" facs="tcp:101802:31"/> pull up your Heart out of your <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſe, and put on courage?</p>
+               </sp>
+               <sp>
+                  <speaker>Wake.</speaker>
+                  <p>Indeed Sir, I cannot find in my Heart to hurt her, neither is it in the power of my Hands to keep her from hurting me. She got the maſtery at the firſt, and ſhe's reſolv'd to keep it.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Nay friend, if it be ſo, and that you cannot put on the Buckler of courage, you muſt reſolve to put on the Helmet of Patience.</p>
+               </sp>
+               <sp>
+                  <speaker>Wa.</speaker>
+                  <p>Ah Sir, any Helmet, to keep my Head from being broke.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I mean friend, if you have not the proweſs of a Man, you muſt take un<g ref="char:EOLhyphen"/>to your ſelf the Patience of an Oxe.</p>
+               </sp>
+               <sp>
+                  <speaker>Wa.</speaker>
+                  <p>If't pleaſe you Sir, I have the Pa<g ref="char:EOLhyphen"/>tience of an Oxe, and I fancy my Horns are as large and wide as moſt Oxens are, but all this will not ſave my Head from breaking.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>You do not make uſe of 'em then, nor ſence with 'em as you ſhould do.</p>
+               </sp>
+               <sp>
+                  <speaker>Wa.</speaker>
+                  <p>Alas Sir, they lye inwardly, and are no defence at all to me. She knows I cannot puſh with <g ref="char:punc">▪</g>em. She has made me an Oxe long ago, and now <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he makes an Aſs of me<g ref="char:punc">▪</g> a mere Aſs <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he beats me black and blue, and all colours, but
+<pb n="47" facs="tcp:101802:31"/> eſpecially as yellow as Saffron. If I can lye quietly under the Table, and but keep my manly looks, I<g ref="char:punc">▪</g> think my ſelf very happy. In ſhort Sir, ſhe's a Devil Incarnate, and Apron'd fury, and the French King and all his <hi>Luxenburghs</hi> and <hi>Catinats</hi> are tame Fools to her.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I have heard of many men that have been Hector'd but I never heard of a poor Man ſo Andromache'd before.</p>
+               </sp>
+               <sp>
+                  <speaker>Wa.</speaker>
+                  <p>Hector Sir? I have heard of that Hector, and what a cruel fellow he was; but I dare ſay, be he who he will, he was a mere Sheep to this tormentor of mine.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>What can be preſcrib'd for the relief of this poor, cowardly, coxcomb<g ref="char:EOLhyphen"/>ly Cuckold?</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Nay Doctor do not call him Coxcombly: He has nothing of the Cock left in him, not ſo much as the Comb or the Crow.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>What a ſad Family muſt he needs have then?</p>
+                  <lg>
+                     <l>Ill fares that Family that ſhows.</l>
+                     <l>A Cock that's ſilent, and a Hen that Crows<g ref="char:punc">▪</g>
+                     </l>
+                  </lg>
+                  <p>But I pray Doctor, (ſince my ad<g ref="char:EOLhyphen"/>vice avails nothing in this caſe) be
+<pb n="48" facs="tcp:101802:32"/> pleas'd to bethink your ſelf to preſcribe ſomething proper for him.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Alas Father, It is not the man, but the Woman that ſhould take Phyſick. If you will fetch your Wiſe hither, I will give her ſomething that ſhall do you good.</p>
+               </sp>
+               <sp>
+                  <speaker>Wa.</speaker>
+                  <p>Fetch her hither Sir? why it is as much as my life's worth, if ſhe ſhould know I were here.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Why then I can only preſcribe you ſomething for your broken head, till it be broken again. Clip off the Hair, waſh the wound clean with warm Milk and Water, put into it two or three drops of <hi>Lucatella</hi>'s <hi>Balſam,</hi> and clap a Plaiſter of <hi>Diapalma</hi> upon it, and it will be well preſently.</p>
+               </sp>
+               <sp>
+                  <speaker>Wa.</speaker>
+                  <p>I doubt Sir, I ſhall forget theſe hard words.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Stay in the Houſe a little, and when I come in I will write it down</p>
+               </sp>
+               <sp>
+                  <speaker>Wa.</speaker>
+                  <p>Your humble Servant, good Dr. And this I hope will keep my head from ever being broke again.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Nay I dare not promiſe that Friend. But when I come in, I will preſcribe you alſo a co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>obora<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing Oil for
+<pb n="49" facs="tcp:101802:32"/> your Nerves, and ſome <hi>unguentum bacill<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>num</hi> to apply to your Wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Wa.</speaker>
+                  <p>Ah Sir, if you can but do any good of her, you will be the beſt man that ever came to our town, and I ſhall be bound to pray for you all the days of my Life. Your humble ſervant Sir.</p>
+               </sp>
+               <stage>—<hi>Exit Wake.</hi>
+               </stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Gentlemen, I am ſorry the di<g ref="char:EOLhyphen"/>ſtempers of my Tenants are ſuch as do not fall under your cure. But I will re<g ref="char:EOLhyphen"/>commend one to you, whom I know if his diſtemper be not grown obſtinate, you may cure.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I doubt Sir <hi>Francis<g ref="char:punc">▪</g>
+                     </hi> all your Neighbours are troubled with Chronical diſtempers, for there is little hopes of any of 'em that I can yet ſee.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>
+                     <hi>Speed,</hi> Call in hither <hi>Charles Catohit,</hi> I'm ſure he needs cure<g ref="char:punc">▪</g> but whe<g ref="char:EOLhyphen"/>ther his humour be obſtinate or no I know not.</p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>I doubt Sir, there is no more hopes of him, than of my Neighbour <hi>Angier.</hi> However at your Worſhips command I will call him in.</p>
+               </sp>
+               <stage>—<hi>Exit Speed.</hi>
+               </stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>This <hi>Catchit</hi> and I have the great<g ref="char:EOLhyphen"/>eſt antipathy of any of my Neighbours.
+<pb n="50" facs="tcp:101802:33"/> And therefore I think the controverſie will mainly lye between him and me; and that before you Father <hi>Caſye.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I ſhall be glad to ſerve the recti<g ref="char:EOLhyphen"/>fying of miſtakes, and the accommoda<g ref="char:EOLhyphen"/>ting of tempers to the utmoſt of my pow<g ref="char:EOLhyphen"/>er, Sr. <hi>Francis.</hi>
+                  </p>
+               </sp>
+               <stage>—Enter <hi>Speed</hi> with <hi>Catchit.</hi>
+               </stage>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>What's the matter? Have you loſt any thing <hi>Charles?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Catchit.</speaker>
+                  <p>I know not, Mr. <hi>Speed;</hi> I thought I heard ſomething gingle under my Feet, as if ſome Money had dropt from me.</p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>Come, come <hi>Charles,</hi> it is no<g ref="char:EOLhyphen"/>thing but a covetous conceit.</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>It may be ſo indeed, Sir, for I am fuller of conceit than I am of Mo<g ref="char:EOLhyphen"/>ney.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Why <hi>Charles,</hi> do you conceit you have more Money than you have?</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>Money Sir? Alas your Wor<g ref="char:EOLhyphen"/>ſhip has got all the Money; and more than all. I was fain to borrow ſome part of your Worſhips Rent.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Come, come <hi>Charles,</hi> I know your tricks well enough, you have two Bags; the one you call <hi>Catchit,</hi> the other
+<pb n="51" facs="tcp:101802:33"/> you call <hi>Holdit;</hi> and no body but <hi>Cat<g ref="char:EOLhyphen"/>chit</hi> can borrow of <hi>Holdit.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>I have no bags, if't pleaſe your Worſhip, but a Batch Bag, and a Malt Bag. As for <hi>Catchit</hi> and <hi>Holdit,</hi> I ken not what your Worſhip means, it's true, my name is <hi>Catchit,</hi> but it might as well have been <hi>Catch-itch:</hi> for I'm ſure I'm<g ref="char:punc">▪</g> likelier to catch that, than any thing elſe. The times are too hard to catch any thing, except one ſhould chance to ſue a Begger; and then you know one might chance to catch, (ſaving your Worſhips preſence) a Louſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>But what do you catch <hi>Charles,</hi> when you ſue the richer ſort of Men? Then I hope the penalty of the Bond, beſides the ordinary Uſury, brings in procuration, continuation, and diſmiſſi<g ref="char:EOLhyphen"/>on; Beſides, it involves many a good gratification.</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>Your Worſhip ſpeaks many hard words, which I do not underſtand. I was never ſnappiſh with any Man in my Life.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Not ſnappiſh? Why they ſay you are a Curr of a Uſurer.</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>I know not well, what your Worſhip means. But I confeſs if I have
+<pb n="52" facs="tcp:101802:34"/> ten Groats or five Shilling to le<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d a ſuffi<g ref="char:EOLhyphen"/>cient Neighbour for a Week or a Fort<g ref="char:EOLhyphen"/>night, I had rather have intereſt for it than not. And yet I think the Attour<g ref="char:EOLhyphen"/>ney that has a Groat for the Bill, gets more by it than I do.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Ay, but they ſay, <hi>Charles,</hi> you ſhave your Eggs, and ſell the ſhavings to the Apothecaries for twelve pence the Ounce, to make Medicines for the Stone.</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>That's the better for them that buy 'em; for then they will ask the leſs boiling.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>I pray <hi>Charles</hi> how many Acres of Land have you manur'd in your time, with the clippings of your Hair, the ſhavings of your Beard and the pairing of your Nails? for they ſay, you ſave them all. Beſides, they ſay you abhor the prodigality of an Houſe of Office, and will never untruſs twice in a place.</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>Your Worſhip has a mind to make your ſelf merry. As for the clip<g ref="char:EOLhyphen"/>pings of my Hair, they are but few; and they muſt fall into the floor, and go amongſt the duſt, and be ſwept to the Muck-hill: tho' I confeſs I think it is no good husbandry to ſweep the Houſe eve<g ref="char:EOLhyphen"/>ry
+<pb n="53" facs="tcp:101802:34"/> Week that comes, for it wea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s up the Floor. As for my Nails, I never pair 'em cloſe, that would ſpoil my catching: But that which is pair'd, the Barber has for his pains. As for a Houſe of Office, I confeſs I think it is an unneceſſary build<g ref="char:EOLhyphen"/>ing; and I do untruſs where I think there is moſt need; and ſo, by my good will, I would have my Cows do too.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Well, well, <hi>Charles;</hi> But they'll untruſs where they pleaſe for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll you. But now you talk of Cows, I know you keep a good Dairy, I pray how do you order that?</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>If't like your Worſhip I am no Qua<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: But I will tell your Worſhip what my Maid ſays. She firſt waſhes her Hands and Milks the Cows: of the Cream ſhe makes Butter, of the old Milk ſhe makes Cheeſe; of the Whey of that Cheeſe ſhe makes Curds; and the Whey of that Whey ſhe ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ls to a Chymiſt in Town, and he exalts it into Sack, or ſomething like it; and this Sack we uſe inſtead of <hi>Aqua-vita,</hi> when any qualm comes over our Stomachs.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>On my Word, <hi>Charles,</hi> you Spin it out to the utmoſt length. But you
+<pb n="54" facs="tcp:101802:35"/> are a Sheep-maſter too; I pray how do you order your Sheep?</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>Sheep Sir? Alas Sir, I have but an end of Sheep; and I think thoſe are almoſt at an end too; they are half of 'em rotten I fear. But when I had a Flock and a Fold of Sheep, I us'd to or<g ref="char:EOLhyphen"/>der 'em thus. I make my Eldeſt Son my Shepherd, till he be fit to go to ſer<g ref="char:EOLhyphen"/>vice; and ſo the next, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he next. For this I take to be the beſt way of Education: if you would have your Son to be a Gentleman, make him a Shep<g ref="char:EOLhyphen"/>herd firſt well, he has his Scrip contain<g ref="char:EOLhyphen"/>ing a good Cantil of Bread<g ref="char:punc">▪</g> and Cheeſe, for himſelf and his Dog <hi>Truſty.</hi> They abide in the Field, the Boy Knit<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing, and the Dog ſleeping and farting, Early and Late, Wet and Dry. Now I inſtruct this Boy ingeniouſly, that if he ſees an other Mans Sheep to have a better walk than ours<g ref="char:punc">▪</g> if he can catch up a new fallen Lamb of any bodies, and father it (if I may ſo ſay) upon a Dam of ours, or if he can light of any Sheep that wants a Mark, not to loſe the oppor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unity. I always keep 'em clean <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elted, and tye a Bag under their Tails all da<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and ſo I have all their Muck in the Fold at
+<pb n="55" facs="tcp:101802:35"/> Night, your Worſhip little thinks what good Sauce Sheep Muck is for Land; it is as good as Currans for roaſt Pig.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But I pray Friend, amongſt all your Arts of good Husbandry, how do you deal with the Parſon and the School<g ref="char:EOLhyphen"/>maſter of the Town.</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>Truly Sir, as for the School<g ref="char:EOLhyphen"/>maſter, neither I nor any of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ine ever trouble him. I prefer Lowing of my Cows, and bleating of my Lambs, be<g ref="char:EOLhyphen"/>fore any Language he can ſpeak or teach.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But I hope you make uſe of the Writing-maſter.</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>Oh no, Sir, They are <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he worſt of Men. It was never good World, ſince that trick of ſcratling came into it. Many a poor Man, ay and rich too, has been undone by writing his name, or ſet<g ref="char:EOLhyphen"/>ting his mark, which is all long of them. As for the Parſon, he prates and keeps a puther, and pretends to have much to ſay to me, but indeed I have little to ſay to him. I cheat him of all, if I can; if I cannot, I pay him the Tithe, I mean the Tithe of what he demands. And I pray Sir, what reaſon is there that a Man ſhould pay good ſubſtantial Lamb and
+<pb n="56" facs="tcp:101802:36"/> Wool for Words, that are but Wind, Hay for Stubble, or Corn for Chaff?</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Fye, fye, you prophane <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ellow, do you value your traſh before their t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ea<g ref="char:EOLhyphen"/>ſure, your Barly Corns before their J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w<g ref="char:EOLhyphen"/>els? What a Dunghill Soul, what a Muck-worm of a Man are you?</p>
+               </sp>
+               <sp>
+                  <speaker>Catch.</speaker>
+                  <p>You may call me what you pleaſe Sir, but I think, and you ſhall ne<g ref="char:EOLhyphen"/>ver make me think otherwiſe<g ref="char:punc">▪</g> that if I do not get more by keeping Sheep, than by being a Sheep of theirs; if I do not profit more by my own good bar<g ref="char:EOLhyphen"/>gains, than by their grave ba<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lings, I ſhall dye poor <hi>Charles Catchit.</hi> And ſo Gentlemen fare ye well, for I ſee there is nothing to be got amongſt you. Your humble Servant Landlord—<hi>Exit<g ref="char:punc">▪</g>
+                     </hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>What a wretched Mortal is this? Man was made of Earth at firſt, we ac<g ref="char:EOLhyphen"/>knowledge; but this man continues mere Earth to this day; nay he's made mere Muck. Are all your Tenants, Sir <hi>Fran<g ref="char:EOLhyphen"/>cis,</hi> of this ſtubborn ill humour? I won<g ref="char:EOLhyphen"/>der how a perſon of your ſublimation does to converſe with 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Truly Father <hi>Caſye,</hi> I am ſorry for their bad breeding, and groſs hu<g ref="char:EOLhyphen"/>mor: But they have all of 'em one good
+<pb n="57" facs="tcp:101802:36"/> humour; they pay their Rent punctual<g ref="char:EOLhyphen"/>ly at <hi>Lady-day</hi> and <hi>Michaelmas.</hi> And it is only when they are in that good hu<g ref="char:EOLhyphen"/>mour, that I converſe with 'em. But go, <hi>Speed,</hi> find me out a better, if there be one in the bunch.</p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>Would your Worſhip have one that ails nothing?</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>No, no, what ſhould he do here then? But ſome one that's willing to be cur'd of what he ails. Call in <hi>Peter Peace.</hi>
+                  </p>
+                  <stage>—<hi>Exit Speed.</hi>
+                  </stage>
+                  <p>This Neighbour is a quiet contented Soul as lives. I doubt you will find he ails nothing; but I call him to let you know all my Neighbours are not made up of ill and obſtinate humours.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>It's well if<g ref="char:punc">▪</g> we find him ſuch as you repreſent him, Sir <hi>Francis</hi> we will try him.</p>
+               </sp>
+               <stage>—<hi>Enter Speed</hi> with <hi>Peace.</hi>
+               </stage>
+               <sp>
+                  <speaker>Peace.</speaker>
+                  <p>Your humble ſervant Landlord, I pray what's your Worſhips pleaſure with me?</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>I have invited you in hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> before theſe Gentlemen, that can cure all Diſeaſes of Bodies and Minds, to ſhew 'em at leaſt in one example, that I
+<pb n="58" facs="tcp:101802:37"/> have Neighbours that ſtand in no need of their skill.</p>
+               </sp>
+               <sp>
+                  <speaker>Peace.</speaker>
+                  <p>I know not whether you have Neighbours or no, Sir <hi>Francis;</hi> but you may ſay, you have one poor Tenant, that never complain'd of any thing ſince you knew him. I am always pleas'd with what I have, and I never covet what I have not. If I want any thing, I am content to want it: though indeed, to ſpeak properly, I want nothing, however I am without many things. I look upon the World as a Wilderneſs; wherein I expect no great entertainment, if I can eſcape being worry'd of Wild Beaſts, whilſt I paſs thorough it<g ref="char:punc">▪</g> I think it is ve<g ref="char:EOLhyphen"/>ry well. I love my Neighbours and Re<g ref="char:EOLhyphen"/>lations very well; but if they dye, I bury them out of my ſight, and out of my memory too, as I hope they will do by me. If I have a plentiful crop, I reap it, and am charitable; if I have a poor one, ſtill I reap it, and am ſparing. If my Wife ſmile and be pleaſant upon me, I do not dote upon her, becauſe I know that Sex is ſubtil and variable; If ſhe ſcold or cry, I do not divorce her; becauſe I know all the Sex is frail and fre<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ful. If my Children be dutiful, I
+<pb n="59" facs="tcp:101802:37"/> love 'em and bleſs 'em, if they be o<g ref="char:EOLhyphen"/>therwiſe, I think, why they are but Children, or at leaſt they are my Chil<g ref="char:EOLhyphen"/>dren. If my Landlord call for his Rent at the very day, I pay it cheerfully, becauſe I know it is due; if he never call for it, ſtill I am content. In ſhort, I live as I liſt, becauſe I liſt to live as I do.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>This is a fine Temper Mr. <hi>Peace.</hi> But what, are you never ſick?</p>
+               </sp>
+               <sp>
+                  <speaker>Pea.</speaker>
+                  <p>Yes Sir, I am ſometimes ſick in Body; I am ſometimes viſited with the Head-ake, but never with the Heart<g ref="char:EOLhyphen"/>ake: I was never ſo ſick, as to ſend for a Phyſician, whom I take to be the worſt of Diſeaſes. And I pray Sir, is Sickneſs ſuch a Buſineſs? I ſhould ill be content to die, as I know I muſt, if I cannot be content to be ſick</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But what, does nothing in Church or State trouble you?</p>
+               </sp>
+               <sp>
+                  <speaker>Pea.</speaker>
+                  <p>No Sir, the State may com<g ref="char:EOLhyphen"/>mand me to be what it will; and I can make the Church to be what I will.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>You make the Church to be what you will? How can that be?</p>
+               </sp>
+               <sp>
+                  <pb n="60" facs="tcp:101802:38"/>
+                  <speaker>Pea.</speaker>
+                  <p>How can it be otherwiſe Sir? For I chooſe my Church, the Church does not chooſe me.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ</speaker>
+                  <p>Your Contentedneſs, I warrant, or rather Bruitiſhneſs is ſuch, that you would chooſe a Barn, as ſoon as a Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Pea.</speaker>
+                  <p>Sir, I am no Humoriſt nor Fa<g ref="char:EOLhyphen"/>natick: Yet I am content you ſhould call me a Bruit; and I think it as good to be a Bruit in a Barn, as a Thief or a Murderer in the Temple: Neither do I account it any more diſhonourable, for any one to be ſerv'd in a Barn, than to be born in a Stable.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>And as for the Government of the State; I ſuppoſe you are content that men ſhould ſeize upon it at a venture, by right or wrong.</p>
+               </sp>
+               <sp>
+                  <speaker>Pea.</speaker>
+                  <p>I am not skill'd in right and wrong, Sir, I am content the Govern<g ref="char:EOLhyphen"/>ment ſhould go as it will go. Let it go by houſe-row, as Conſtables do, it ſhall not trouble me: It may come to my turn at length. However, ſince the taking of <hi>Limbrick,</hi> I am well ſatisfi'd that King <hi>William</hi> has a Right to the Crown: at leaſt, till ſome body can take it from him.</p>
+               </sp>
+               <sp>
+                  <pb n="61" facs="tcp:101802:38"/>
+                  <speaker>Caſ.</speaker>
+                  <p>Come to thy turn, thou ſilly Aſs? Thou art not fit to make bum-fodder for a Gentleman.</p>
+               </sp>
+               <sp>
+                  <speaker>Pea.</speaker>
+                  <p>I am content to be an Aſs too, ſo your Reverence will vouchſafe to carry the Pack-ſaddle. Yea, I ſhall be content to be Bum-fodder to your Re<g ref="char:EOLhyphen"/>verence, by that time you have wip'd your Breech with your Noſe, till you have worn it to the ſtumps, as ſome Gentlemen have done. But I perceive, Gentlemen, you are offended with my peaceable Diſpoſition, therefore how ambitious ſoever I am of your worſhip<g ref="char:EOLhyphen"/>full Company, I will be content to leave you.</p>
+               </sp>
+               <stage>—<hi>Exit Peace.</hi>
+               </stage>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Sir <hi>Francis,</hi> how do you do to live amongſt ſuch a parcel of Fellows. I never met with a company of ſuch croſs-grain'd Tikes, in my life.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Oh Father, I do not live a<g ref="char:EOLhyphen"/>mongſt 'em, I live above 'em. I told you before, they are good natur'd twice a year, and that's as often as I have oc<g ref="char:EOLhyphen"/>caſion to converſe with 'em. But now I think on't, I have a Tenant, of a gen<g ref="char:EOLhyphen"/>teeliſh kind of Humour<g ref="char:punc">▪</g> that poſſibly may prove pretty agreeable: but I dare not promiſe that he ails nothing. You
+<pb n="62" facs="tcp:101802:39"/> will ſoon find his Diſeaſe, and the one or other of you eaſily preſcribe to him. Wiſh Mr. <hi>Medler</hi> to come in hither, <hi>Speed.</hi>
+                  </p>
+               </sp>
+               <stage>—<hi>Exit Speed.</hi>
+               </stage>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I know not what the man may prove; but his Name imports as bad a Humour, as any we have met with yet: I ever hated the pragmatical breed. I had rather my fingers were cut off, than have'em in every man's Pye.</p>
+               </sp>
+               <stage>—Enter <hi>Speed</hi> with <hi>Medler</hi>
+               </stage>
+               <sp>
+                  <speaker>Med.</speaker>
+                  <p>Your humble Servant Landlord, and yours alſo Gentlemen; you both ſeem to be Lords of Land. And that's the Character that the great Men of the World do moſt thirſt after, now a<g ref="char:EOLhyphen"/>days. I hope theſe Strangers have brought you ſome news from abroad, Sr. <hi>Francis,</hi> which you are minded to communicate.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>News Sir? why, I hope you do not take us us to be Mercuries or Ob<g ref="char:EOLhyphen"/>ſervators, or Penny-book-pedlers, that you thus ſpeak.</p>
+               </sp>
+               <sp>
+                  <speaker>Med.</speaker>
+                  <p>Oh no Sir; But I take you to be intelligent Perſons.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>And what, do you take all intelli<g ref="char:EOLhyphen"/>gent Perſons to be Intelligencers?</p>
+               </sp>
+               <sp>
+                  <pb n="63" facs="tcp:101802:39"/>
+                  <speaker>Mèd.</speaker>
+                  <p>Truly Sir I think, he that knows no news, cannot well be call'd a know<g ref="char:EOLhyphen"/>ing Man, as the World goes.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Why, there's nothing new, Sr.</p>
+               </sp>
+               <sp>
+                  <speaker>Med.</speaker>
+                  <p>Nothing new? you're an old faſhion'd Gentleman ſure, that would have all the World, and all the Affairs of it, always to remain in the ſame faſhion. Is it not news [here he re<g ref="char:EOLhyphen"/>peats the Heads of the <hi>Thurſaays</hi> and <hi>Saturdays</hi> and <hi>Mondays</hi> news.]</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But ſuppoſe all this to be news, and all this news to be true too, how will this juſtifie the Folly of Curio<g ref="char:EOLhyphen"/>ſity?</p>
+               </sp>
+               <sp>
+                  <speaker>Med.</speaker>
+                  <p>I know not what you call Cu<g ref="char:EOLhyphen"/>rioſity, Sr. I take it to be a ſollicitous prying into things either ſecret or im<g ref="char:EOLhyphen"/>pertinent, things that are either not to be known, or that it does not concern me to know.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Why, I pray Sir, how it does concern you to know the things done in <hi>Spain, Germany, Italy?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Med.</speaker>
+                  <p>Oh Sir, 'tis a generous humour to deſire to be acquainted with all the World. It is true, I live here, I rent my Houſe and Land of Sr. <hi>Francis,</hi> but my mind is a Member of the Univerſe, and
+<pb n="64" facs="tcp:101802:40"/> in that, I am as good a Freeholder as he.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Ay, ay, Mr. <hi>Medler,</hi> Be as good a Freeholder as you can, ſo you do but pay me Rent.</p>
+               </sp>
+               <sp>
+                  <speaker>Med.</speaker>
+                  <p>I do not envy you, S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Francis,</hi> what is yours? But when I hear what ſcrabling there is in the World, for Countreys and Kingdoms, and how o<g ref="char:EOLhyphen"/>ther men at home, add Town to Town, and Lordſhip to Lordſhip, me thinks my Pittance is very ſmall.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>This Sir, is the fruit of your unneceſſary Knowledge; you would think your Condition very good, if you knew no better. I warrant the news of the <hi>French</hi> King's Conqueſts, puts you into a humour to be a K<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ight Er<g ref="char:EOLhyphen"/>rand.</p>
+               </sp>
+               <sp>
+                  <speaker>Med.</speaker>
+                  <p>No Sir but I take it to be ungene<g ref="char:EOLhyphen"/>rous, and ſnailiſh, always to live at home, and to carry ones Houſe on ones back. What Sympathy can one have with the Happineſs or Miſery of the reſt of mankind, that knows it not? How can a Stranger to the World, di<g ref="char:EOLhyphen"/>rect or order h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Affairs rightly in it? How can I pay my Tithes conſcientiouſly, except I know how the Parſon comes
+<pb n="65" facs="tcp:101802:40"/> by his Sermons? or my Taxes cheer<g ref="char:EOLhyphen"/>fully, except I know what the King will do with the Money?</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I doubt you want to know who is King too.</p>
+               </sp>
+               <sp>
+                  <speaker>Med.</speaker>
+                  <p>No, Doctor; I am ſatisfi'd as well as any of you, ſince the taking of <hi>Limbrick,</hi> that <hi>William</hi> is King. My Landlord knows what a noble Bone<g ref="char:EOLhyphen"/>fire I made for him the other night, and how prettily the Boys and Girls hopt and grinn'd about it.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Father <hi>Caſye,</hi> you miſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ake this man: he's my Patient. The man is troubled with a Diſeaſe call'd <hi>Scotonia,</hi> or the Giddy. He thinks all the World turns round, and he's reſolv'd to turn with it. It proceeds from a certain Ventoſity, in the Ventricles of the Ce<g ref="char:EOLhyphen"/>rebell. But I can cut him, and cure him.</p>
+               </sp>
+               <sp>
+                  <speaker>Med.</speaker>
+                  <p>Your Worſhip is ſome Cow-Doctor I warrant. And I think you are a couple of dry haſty, narrow-ſpirited Gentlemen, and ſo fare you well—<hi>Ex<g ref="char:EOLhyphen"/>it Medler</hi> in a pe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Gentlemen, you complain of my Tenants, that they are croſs grain'd; I doubt it's long of the croſs Queſti<g ref="char:EOLhyphen"/>ons
+<pb n="66" facs="tcp:101802:41"/> you put to 'em. I pray thee <hi>Speed,</hi> call in Mr. <hi>Slack;</hi> it may be he will fit Fa<g ref="char:EOLhyphen"/>ther <hi>Caſy</hi>'s humor better.</p>
+                  <stage>—<hi>Exit Speed.</hi>
+                  </stage>
+                  <p>This man rents a good Farm of me, but he has a good Yeomans Eſtate of his own, and, I believe, lives as eaſily and unconcernedly, as any Lord in the Land.</p>
+               </sp>
+               <stage>—Enter <hi>Speed</hi> with <hi>Slack.</hi>
+               </stage>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>I beg your Worſhips pardon, that I have been ſo long. But Mr <hi>Slack</hi> was ſo deeply ingag'd in company that he knew, and Liquor that he lik'd, that I could not eaſily perſwade him to leave 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Slack.</speaker>
+                  <p>I know your Worſhip has no<g ref="char:EOLhyphen"/>thing to ſay to me: For I have but one Concern in the whole World, that is, to pay my Rent; and that your Worſhip knows I have. And as for theſe Gentlemen Strangers, I ſuppoſe they have no more to ſay to me, than I have to them; and that's juſt nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>But what, Sir, does nothing ail you in any reſpect?</p>
+               </sp>
+               <sp>
+                  <speaker>Slack.</speaker>
+                  <p>Not now I have paid my Rent Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>And have no Diſtemper upon you at no time?</p>
+               </sp>
+               <sp>
+                  <pb n="67" facs="tcp:101802:41"/>
+                  <speaker>Slack.</speaker>
+                  <p>None but what I cure my ſelf. Sometimes I am hungry, ſometimes thir<g ref="char:EOLhyphen"/>ſty, ſometimes ſleepy; but I have a Re<g ref="char:EOLhyphen"/>medy at hand for all theſe; and ſuch a Remedy too, as is pleaſant to take.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>But what, are you never wea<g ref="char:EOLhyphen"/>ry?</p>
+               </sp>
+               <sp>
+                  <speaker>Sl.</speaker>
+                  <p>Never, except it be with doing nothing, or with hearing impertinent Talk, or long ſtories of news.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Or a long Sermon</p>
+               </sp>
+               <sp>
+                  <speaker>Sl.</speaker>
+                  <p>You are i'th' right, Landlord, I had forgot that. But yet I go to Church too ſometimes, to take a Nap. I love the Collects too, only there's ſo many of them; and Sermon too, if it be not too loud to waken me, or too long, to keep me from my Dinner.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I doubt you are Atheiſtically giv<g ref="char:EOLhyphen"/>en, Mr. <hi>Slack.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>S.</speaker>
+                  <p>I know not what you mean by Atheiſtically. I confeſs I am no great admirer of Orators and Obſervators, nor do I love to have my head trou<g ref="char:EOLhyphen"/>bled with Sermons or Gazets. I cannot endure to be concern'd: Let things go which way they will; for they will go which way they will. What if the Earth quake; muſt my Heart needs
+<pb n="68" facs="tcp:101802:42"/> ake? what if the Heaven<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> crack, does it follow, that my Brains muſt crow? What care I, whether the Pope be a Papiſh or a Proteſtant, whether he be a Man or a Woman, whether he be a Woman or a Devil. What is it to me, whether the King of <hi>Germany,</hi> and the King of <hi>Turky</hi> fall out or fall in. It does not concern me ſo much, whether the <hi>French</hi> King gets <hi>Flanders</hi> or loſes it, as whether my <hi>Flanders</hi> Mare in the ſtable be with Foal or no? They have made a great deal of ſtir about reducing of <hi>Ireland,</hi> as they call it; they might e'en have let it ha' gone for me: If it were all of a Bog, it would not trouble me; I have never a foot of Land there.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But what, have you no mind to know how things go abroad?</p>
+               </sp>
+               <sp>
+                  <speaker>Sl.</speaker>
+                  <p>To know Sir? Why I'll tell you, I think it is the wiſeſt way to know nothing: for the more one knows, the more he's vext: It is an eaſier and ſweeter life to be ignorant, than to be a knowing Man.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But if he knows nothing, he's not a Man, he's a Beaſt.</p>
+               </sp>
+               <sp>
+                  <pb n="69" facs="tcp:101802:42"/>
+                  <speaker>Sl.</speaker>
+                  <p>Beaſt, Sir? The life of a Beaſt is not ſo contemptible as you make fair of. I believe there's never a Beaſt I have, would change lives with you. The life of a Beaſt? what life can be eaſier ſweeter, freer? He leads the life of knowing nothing, of caring for nothing: he eats, and drinks, and ſleeps, and deſires no<g ref="char:EOLhyphen"/>thing, wants nothing, fears nothing. Oh Sir, if men were but as free from Paſſions, and Apprehenſions as the Beaſts are, how happily might they live? We forſooth, fret at what we have, and vex for want of what we have not. We cannot enjoy our ſelves, becauſe any body elſe enjoys any thing as good, or better. We cannot digeſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Inju<g ref="char:EOLhyphen"/>ry, till we have requited it; nor be re<g ref="char:EOLhyphen"/>conciled then neither. There is worſe found in the Nature of Men, than in the nature of Beaſts; and all becauſe men can think, and know, and argue, and have the ill luck to be concern'd; which theſe ſilly Beaſts are free from. If you did but know Sir, how ſweet and pleaſant it is to approach as near as may be to the life of a Beaſt, and yet not to be one, you would almoſt be tempted to doff your Periwig and
+<pb n="70" facs="tcp:101802:43"/> Coloſhes, and put on Horns and Hooves.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>But what, would you die like a Beaſt too.</p>
+               </sp>
+               <sp>
+                  <speaker>Sl.</speaker>
+                  <p>Their way of dying? <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s all one with yours; they leave breathing, and ſo do you. And their way of bury<g ref="char:EOLhyphen"/>ing, much nobler than yours: They are buried in you, whereas you are buri<g ref="char:EOLhyphen"/>ed in the Bowels of Fiſhes, of Crows, or at beſt of Worms. My Ox, or my Hog, when he's dead and eaten, comes to be a part of my ſelf; you being dead, turn to Duſt and Eilthineſs. And if you enquire any further, for the Cre<g ref="char:EOLhyphen"/>dit of the Beaſt be it ſpoken, he has nothing to anſwer for; which you Di<g ref="char:EOLhyphen"/>vines and Doctors have.</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I think, Sr. <hi>Francis,</hi> you would do well, to make this man your chief Herds-man.</p>
+               </sp>
+               <sp>
+                  <speaker>Sl.</speaker>
+                  <p>Content Sir, if you will be Chap<g ref="char:EOLhyphen"/>lain to the Herd.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Nay rather, Sir <hi>Francis,</hi> be at ſome Charges with him, to lengthen his Ears, and ſo he will be one ſort of Beaſt preſently.</p>
+               </sp>
+               <sp>
+                  <speaker>Sl.</speaker>
+                  <p>Gentlemen, I wiſh you no worſe, than that you may always be kept in
+<pb n="71" facs="tcp:101802:43"/> your Senſes; and then I'm ſure you will never want ſomething to vex you.</p>
+               </sp>
+               <stage>—<hi>Exit Slack.</hi>
+               </stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Gentlemen, you do ſo diſturb my Neighbours, that they know not what they ſay. They are a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ittle ſhat<g ref="char:EOLhyphen"/>ter'd, and you make 'em ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ark mad. It is to be hoped, if I call in a pair of men that are mad already, you will make 'em ſober. I pray thee, <hi>Speed,</hi> go and call in hither Mr. <hi>Grindon</hi> and <hi>Frank Fawns.</hi> I believe we ſhall have no great trouble with them, except it be to reconcile 'em: and that I hope Father you may do.</p>
+               </sp>
+               <stage>—<hi>Exit Speed.</hi>
+               </stage>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Alas, Sir <hi>Francis,</hi> your people do not underſtand my Divinity-trade; but I will do what I can for 'em. My work lies in Caſes of Conſcience, and I perceive your people have no Conſci<g ref="char:EOLhyphen"/>ence, that a man can come at.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Oh, it lies deep, Father; but by the Lancet of Inquiſition, or the Horſe-leech of thorough Examination, you may poſſibly come to it and let out ſome bad Blood.</p>
+               </sp>
+               <stage>—Enter <hi>Speed,</hi> with <hi>Grindon</hi> and <hi>Fawns.</hi>
+               </stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>You're welcome, Mr. <hi>Grindon,</hi> I have invited you in, to know whether
+<pb n="72" facs="tcp:101802:44"/> here be any thing, wherein theſe Lear<g ref="char:EOLhyphen"/>ned Gentlemen can pleaſure you.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Sir, you think ſure, I am a man much given to Pleaſure. If you Knights and Gentlemen lov'd your Pleaſure no more than I do, there would not be ſo much Hunting and Hawking, and breaking of mens Hedges, as there is.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>I believe, Mr. <hi>Grindon,</hi> his Wor<g ref="char:EOLhyphen"/>ſhip did not mean as you interpret him.</p>
+               </sp>
+               <sp>
+                  <speaker>Grind.</speaker>
+                  <p>Interpret him? I wonder how I came to be an Interpreter, I think all the World has a mind to abuſe me. I can ſcarce read the Text, and yet I muſt be an Interpreter forſooth.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>I mean Sir, (I pray pardon me) as you underſtand him.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>What, I am become an under<g ref="char:EOLhyphen"/>ſtanding Man; that to my own Know<g ref="char:EOLhyphen"/>ledge, was but a Fool when I came in. Ay, and the moſt underſtanding of men too, a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Pope forſooth, that can pardon. I warrant I am infallible too, am I not?</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Sir, if I be not deceiv'd, you are infallible, you are a Pope.</p>
+               </sp>
+               <sp>
+                  <pb n="73" facs="tcp:101802:44"/>
+                  <speaker>Grin.</speaker>
+                  <p>I a Pope, you Dotterel? how can I be a Pope?</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>You carry a Pope in your Bel<g ref="char:EOLhyphen"/>ly, and that's all one.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>I pray thee <hi>Fawns,</hi> explain thy ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>I am plain enough Mr. <hi>Grindon,</hi> I need no great Explanation. But my meaning is this: The conceit that you have of your own Underſtanding, is apt to make you ſnarl at the different Sen<g ref="char:EOLhyphen"/>timents of all other men. Now whoe<g ref="char:EOLhyphen"/>ver, (being himſelf ſatisfied in a thing) does thereupon declare, that he will never alter his Opinion, or the Conduct of his Affairs, muſt needs be infallible; at leaſt, he does aſſume an Infallibility to himſelf, as well as the Pope. The Pope ſays, I cannot err; you ſay you will never alter, and I pray then, which is the more infallible?</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>I pray, Sir <hi>Francis,</hi> rebuke this man, he nibbles at the Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>It's well Sir, he does but nibble at you; he bites me. He ſays I am a Pope, I would he could make his words good. He ſays I ſnarl, as if I were a Dog: but if he could make me a Pope,
+<pb n="74" facs="tcp:101802:45"/> I would make Bulls<g ref="char:punc">▪</g> that ſhould puſh this Dog out of the Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>It's well Sir, the cur'd Cow has ſhort Horns.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Now I'm come, from a Bull to a Cow or a Cuckold. Thou wilt make an Aſs of me, I believe by and by.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw</speaker>
+                  <p>Oh no Sir, no man is an Aſs, but of his own making. You may do that for your ſelf, that no body can do For you<g ref="char:punc">▪</g> Your Neighbours may help you to Horns poſſibly, but they can ne<g ref="char:EOLhyphen"/>ver help you to Ears.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>To Ears Sirra? why, I never was upon the Pillory, I have <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ars of a natural length.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>You mean I believe Sir, of the length of a natural.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>A natural<g ref="char:punc">▪</g> ha' a natural? what doeſt make a Baſtard of me too?</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Oh no Sir<g ref="char:punc">▪</g> for though many men have the ill luck to be Baſtards, yet none of them are naturals, but the By<g ref="char:EOLhyphen"/>blows of Princes. You are a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> honeſt Gentleman, and ſo was your Mother be<g ref="char:EOLhyphen"/>fore you.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Thou nonſenſical Owl, my Mo<g ref="char:EOLhyphen"/>ther before me a Gentleman?</p>
+               </sp>
+               <sp>
+                  <pb n="75" facs="tcp:101802:45"/>
+                  <speaker>Faw.</speaker>
+                  <p>And why not I pray Sir, as well as the Gray Mare be the better Horſe, Your Father was plain <hi>George Grindon,</hi> but your Mother was Mrs <hi>Betty Court<g ref="char:EOLhyphen"/>ney.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Well, and what am I then?</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Sir, you are Mr. <hi>Grindon</hi> at eve<g ref="char:EOLhyphen"/>ry word.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>what, do I grin at every word? Juſt now he would make me to ſnarl at every man; now I grin at every word. This pitiful fellow will make a Dog of me by and by.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Oh no Sir, far be it f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om me; you are the meekeſt Spaniel upon Earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Upon Earth? It's well I am not a Water-Spaniel too.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>I'm ſorry Sir, that you ſhould ſo miſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>apply all my words.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin</speaker>
+                  <p>Miſ-apply? ha' miſ-apply? He made me a Conju<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er juſt now, in ſay<g ref="char:EOLhyphen"/>ing I could interpret; and now he will make a Parſon of me, which is next to it. For none can miſ-apply, out thoſe that apply; and that you know is the Parſon's Trade.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>You ſpeak wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tily Mr. <hi>Grindon;</hi>
+                     <pb n="76" facs="tcp:101802:46"/> but under Correction, that's not the Parſon's Trade, but yours and mine.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>I never heard a man ſpeak ſacri<g ref="char:EOLhyphen"/>ledge till now. A Parſon, and yet not apply to himſelf, the things that he teaches us?</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Sir, he is left to his liberty, as Phyſicians are, who forbid their Pati<g ref="char:EOLhyphen"/>ents many things, that are found upon their own Trenchers.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>What have you to do with Phy<g ref="char:EOLhyphen"/>ſicians, friend?</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Not much Sir, I thank my good Stars. But this Gentleman, my good Neighbour may poſſibly nee<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Relief from you.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Relief? He'll make a begger of me too, I think.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>I mean Sir, you may be be<g ref="char:EOLhyphen"/>holden to him for his Directions.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Thou Idiot, I ſcorn to be be<g ref="char:EOLhyphen"/>holden to any man: My Landlord here has good Money of me for bad Land.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>No, no, Mr. <hi>Grindon,</hi> you are not beholden to me; I am rather be<g ref="char:EOLhyphen"/>holden to you.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Nay, if I thought ſo, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> would throw up all my Land: For I will never
+<pb n="77" facs="tcp:101802:46"/> keep a Farm meerly to gratifie my Landlord.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Me thinks, though you be Mr. <hi>Grindon,</hi> and my very good Neighbour, you are very humorous Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Humorous? Now I warrant he will make me ſick too, and put me into the hands of this Doctor.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I doubt indeed Sir, you do a<g ref="char:EOLhyphen"/>bound with Humors. But I perceive they are not very groſs and feculent, but ſerous and fine Humors.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>For all your fine words Mr. Doctor, I do not ſo abound with Hu<g ref="char:EOLhyphen"/>mors, as to humour you with a Fee to purge 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>I pray Sir, do not fall into a peeviſh Humour, of all others.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Peeviſh? Now he makes a Child of me. I pray good folk, keep the Child from being peeviſh. Muſt I not have a Nurſe, and a Pa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> too?</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Oh Sir, we know you have a good Nurſe at home, and it is a ſign you are not at home now, if you were, ſhe would not ſuffer this Feather to ſtick upon your Coat.—He takes it off.</p>
+               </sp>
+               <sp>
+                  <pb n="78" facs="tcp:101802:47"/>
+                  <speaker>Grin.</speaker>
+                  <p>Thou envious Fellow, why wouldſt thou hinder the world from knowing that I lie upon a feather-Bed?</p>
+               </sp>
+               <sp>
+                  <speaker>Fawn.</speaker>
+                  <p>This is not not a Feather <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oo I hope—he bruſhes off ſome duſt from his Shoulder with his hand.—This is duſt Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Thou ſawcy Fellow: I carry it on purpoſe to be a Monitor of my Mor<g ref="char:EOLhyphen"/>tality; and doſt thou bruſh it off? Give me my duſt again.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>—Stoops, and takes up a hand<g ref="char:EOLhyphen"/>ful, and lays it upon his ſhoulde<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>This is not duſtying <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, Sir<g ref="char:EOLhyphen"/>rah, this is daubing me. It were a good deed to reduce thee to the duſt and a ſhadow</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Sir, I am meaner than a ſhadow; for I honour your ſhadow, yea, the ſha<g ref="char:EOLhyphen"/>dow of your <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hoe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ties.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin</speaker>
+                  <p>They are Buckles Sirrah.</p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Still Sir, will be meeker than they, and buckle to your very Buc<g ref="char:EOLhyphen"/>kle.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>Thou art a diſſembling Knave, <hi>Fawns.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Faw.</speaker>
+                  <p>Some men are ſo profeſſedly,
+<pb n="79" facs="tcp:101802:47"/> without diſſembling, it's well your Wor<g ref="char:EOLhyphen"/>ſhip ſcap'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Nay, now he Worſhips you, Mr. <hi>Grindon,</hi> you muſt be reconcil'd: I pray walk in and drink a Glaſs of the beſt, and be friends.</p>
+               </sp>
+               <sp>
+                  <speaker>Grin.</speaker>
+                  <p>A Glaſs, ha a Glaſs? a poor <hi>modicum.</hi> But come <hi>Frank,</hi> if it muſt be but a Glaſs, it ſhall be as big as a looking Glaſs.</p>
+               </sp>
+               <stage>—<hi>Exeunt Grindon</hi> and <hi>Fawns.</hi>
+               </stage>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Call in <hi>Stephen Sad.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Speed.</speaker>
+                  <p>He'll make you all Melancho<g ref="char:EOLhyphen"/>lick, I doubt Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Poor man, poſſibly we may make him merry,—<hi>Exit Speed.</hi> A very honeſt fellow: But he's always lay<g ref="char:EOLhyphen"/>ing one thing or other to Heart, preſent or future. If he feels nothing to trou<g ref="char:EOLhyphen"/>ble him, yet he fears ſomething.—Enter <hi>Speed</hi> with <hi>Sad</hi> and <hi>Merry</hi> skipping after them.</p>
+               </sp>
+               <sp>
+                  <pb n="80" facs="tcp:101802:48"/>
+                  <speaker>Mer.</speaker>
+                  <lg>
+                     <l>Oh Derry, derry, my Rent is paid my Rent is paid,</l>
+                     <l>Oh Derry, derry, my Rent is paid, is paid,</l>
+                     <l>And fye upon all Fools</l>
+                     <l>That are ſuch very Tools,</l>
+                     <l>That their Rent is unpaid, unpay'd.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Why how now, <hi>Moſes?</hi> who ſent for you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>If't pleaſe your Worſhip, I'm like ill Weather, I come without ſend<g ref="char:EOLhyphen"/>ing for.</p>
+                  <lg>
+                     <l>And as the fair Fountain ſprings, and ſprings,</l>
+                     <l>Which by no Mud is ſtay'd</l>
+                     <l>E'ne ſo poor <hi>Merry</hi> ſings, and ſings,</l>
+                     <l>Becauſe his Rent is pay'd.</l>
+                  </lg>
+                  <stage>—He claps ſad on the back.</stage>
+                  <p>Come have a good Heart <hi>Stephen;</hi> thy Rent's pay'd too, lad.</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>Ay <hi>Moſes;</hi> but <hi>Lady-day</hi> will come after <hi>Michaelmas.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>Ay and <hi>Michaelmas<g ref="char:punc">▪</g>
+                     </hi> after that again.</p>
+                  <lg>
+                     <pb n="81" facs="tcp:101802:48"/>
+                     <l>—And ſo the year goes round.</l>
+                     <l>But let's be merry whilſt we may.</l>
+                     <l>Till we be under ground.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>Sure <hi>Moſes</hi> you draw a light Har<g ref="char:EOLhyphen"/>row. You are always full of mirth I know; but what makes you ſo full of Rhymes?</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>Why ſhould not the Heart ſym<g ref="char:EOLhyphen"/>pathize with the Purſe, and be both light together?</p>
+                  <lg>
+                     <l>Who can ſing ſo merry a Note,</l>
+                     <l>As he that cannot change a Groat?</l>
+                  </lg>
+                  <lg>
+                     <l>And as for rhyming, lad, thou know'ſt,</l>
+                     <l>
+                        <hi>Alum ſtalum non eſt malum.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Poet and Pot differ but in a Letter.</l>
+                     <l>The Pot, oh th' Pot, does make me rhyme the better.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>But how many poor People of the ſame make with our ſelves are now crying for Bread, and lamen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing in Proſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>And who can help it Lad? they muſt e'ne put their Tears into Tune,
+<pb n="82" facs="tcp:101802:49"/> and then they will be as merry as <hi>Mo<g ref="char:EOLhyphen"/>ſes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>Oh but can you think of this great Tax that is coming, and be ſo merry?</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>Tax, <hi>Stephen?</hi> I am thinking, further than ſo. I am thinking how mer<g ref="char:EOLhyphen"/>ry we ſhall be, when we have conquer'd <hi>France,</hi> and drink nothing but Cla<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>Ah <hi>Moſes,</hi> I wiſh I may never want good ſmall beer till then. In the mean time, whilſt the Graſs grows, the Steed ſtarves. I doubt we ſhall want Whey before we get Clarett.</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>Why Lad; we'll make the Pigs drink Water, before we'll want Whey. Have a good heart <hi>Stephen.</hi>
+                  </p>
+                  <lg>
+                     <l>Come caſt away Care,</l>
+                     <l>For ſure we are,</l>
+                     <l>The Pariſh is bound to find us;</l>
+                     <l>Thou muſt die,</l>
+                     <l>And ſo muſt I,</l>
+                     <l>And leave this World behind us.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>Ah <hi>Moſes, Moſes,</hi> if we come to the Pariſhes finding, I doubt we ſhall go with many a ſhort Meal.</p>
+               </sp>
+               <sp>
+                  <pb n="83" facs="tcp:101802:49"/>
+                  <speaker>Mer.</speaker>
+                  <p>Nay <hi>Stephen,</hi> ſo they be but ma<g ref="char:EOLhyphen"/>ny, I care not how ſhort they are: a little, and often is the beſt feeding.</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>But what if the <hi>Turks</hi> or <hi>French</hi> come in upon us, and cut our Throats?</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>Why then our Breath will go out of the Gap: And is no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that as good as if it went out at our No<g ref="char:EOLhyphen"/>ſtrils?</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>What if the Sea ſhould overflow this Iſland?</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>Then we ſhould have plenty of Fiſh; and that's very good Victu<g ref="char:EOLhyphen"/>als.</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>But what if the Sky ſhould fall?</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>Then we ſhould catch plenty of Larks, which are now worth ſix pence a dozen.</p>
+               </sp>
+               <sp>
+                  <speaker>Sad.</speaker>
+                  <p>I pray thee now, <hi>Moſes,</hi> be not ſo mad-headed. Who can be merry, that lives in an Age of Fools and Knaves and Beggars and Mad men<g ref="char:punc">▪</g> as we do?</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>And I pray thee <hi>Stephen,</hi> who can help it? There will be Fools and Knaves as long as you and I <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ive; and Beggars too, as long as my Landlord lives.</p>
+               </sp>
+               <sp>
+                  <pb n="84" facs="tcp:101802:50"/>
+                  <speaker>Free.</speaker>
+                  <p>Why <hi>Merry,</hi> do I make any Beggars?</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>I beg your Worſhips pardon; I mean, whilſt there are any rich, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere will be ſome poor to beſtow their Eſtutes upon: elſe what ſhould they be rich for?</p>
+               </sp>
+               <sp>
+                  <speaker>Caſ.</speaker>
+                  <p>Gentlemen, I do adviſe you to be<g ref="char:EOLhyphen"/>ware of Extremes. <hi>Stephen,</hi> it is good to be thoughtful, but not frightful; to be cautious, but not jealous; to be <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u<g ref="char:EOLhyphen"/>ſing, but not miſdeeming. Take heed your grave Seriouſneſs do not <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urn into Sadneſs; or however, be ſure it be ſo<g ref="char:EOLhyphen"/>ber ſadneſs. And you <hi>Moſes<g ref="char:punc">▪</g>
+                     </hi> in all your Merriment, remember to be mer<g ref="char:EOLhyphen"/>ry and wiſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>I thank your grave Advi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, Reverend Father. I will be ſure to remember the firſt; and as for the lat<g ref="char:EOLhyphen"/>ter, I leave it amongſt you Book-learn'd Men, make the beſt you can of it. But they ſay, one cannot be wiſe and mer<g ref="char:EOLhyphen"/>ry too. If it can be, then I cray you Wiſe Men, reſt ye merry.</p>
+               </sp>
+               <stage>—<hi>Exeunt Merry</hi> and <hi>Sad.</hi>
+               </stage>
+               <stage>—Enter <hi>Kester Killag<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ew.</hi>
+               </stage>
+               <sp>
+                  <pb n="85" facs="tcp:101802:50"/>
+                  <speaker>Kill.</speaker>
+                  <p>Your Worſhips moſt humble ſer<g ref="char:EOLhyphen"/>vant, Sir <hi>Francis.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>What <hi>Keſter?</hi> Art thou come again? I'm glad to ſee thee, thou art welcome into <hi>England</hi> again. Thou haſt ſcap't many a ſcowring, I warrant thee amongſt the Teagues.</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Scap't many a ſcowring? Ay Sir, and ſo muſt every body that comes there. I believe they are the greateſt fluts in Nature? They made no waſhing, till I came to waſh 'em in <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eir own Blood.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>In their own Urine rather.</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Why has any body told your Worſhip what havock I have made there? Beſides the many hundreds tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> I have killed, I have made thouſands bepiſs 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>I warrant thou canſt ſhew me many a fair wound, <hi>Keſter.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Ay<g ref="char:punc">▪</g> Sir <hi>Francis,</hi> and theſe in fair places too. But it is no matter for trou<g ref="char:EOLhyphen"/>bling your Worſhip with ſuch a ſad ſight: Beſides, it may be theſe ſtrangers are ſqueamiſh or cowardly, and cannot or dare not look upon Wounds. But good Sir <hi>Francis,</hi> how do my Wife and Chil<g ref="char:EOLhyphen"/>dren amongſt you. I have not been at
+<pb n="86" facs="tcp:101802:51"/> home yet. I made my firſt viſit to your Worſhip.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>They are all well at home <hi>Keſter,</hi> as you left 'em.</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <lg>
+                     <l>Bleſt Heavens do favour <hi>Willi<g ref="char:EOLhyphen"/>ams</hi> Friends,</l>
+                     <l>And all that to their welfare tends.</l>
+                     <l>
+                        <hi>Lilly bo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aro,</hi> &amp;c.</l>
+                  </lg>
+                  <p>I hope I am come in good time Landlord, to pay my <hi>Michaelmas</hi> Rent.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>In the very nick of time <hi>Keſter;</hi> that is, if thou haſt brought any Money with thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Keſt.</speaker>
+                  <p>Money, Landlord? Hold your Hand, my half years Rent is ten pound; here's nine Guinneys, and ſix and ſix pence in Silver. I pray enter it into your book.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Oh brave <hi>Keſter!</hi> I did not think the whole Teague-land could have turn'd out ſo much Gold. Thou haſt ſtript ſome Captain or Collonel, whom ſome body elſe had kill'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Some body elſe Sir? with theſe Hands.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>What with theſe Hands I pray you?</p>
+               </sp>
+               <sp>
+                  <pb n="87" facs="tcp:101802:51"/>
+                  <speaker>Kill.</speaker>
+                  <p>I kill'd that Rogue St. <hi>Ruth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>St. <hi>Ruth?</hi> why he was kill'd with a Cannon Bullet.</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Ay, ay Sir <hi>Francis,</hi> he had a thump o'th' breaſt with a ſixteen pounder, and was mask'rd, but this Sword ended his wretched days. And <hi>Sarsfields</hi> too.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>
+                     <hi>Sarsfields?</hi> Why <hi>Sarsfield</hi> is gone into <hi>France.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Well, but I had certainly kill'd him, if he had not gone; ſo that indeed the taking of <hi>Limbrick</hi> is owing to me.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Why, was you at the Siege of <hi>Limbrick?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Of <hi>Limbrick</hi> Sir? I was as at the Siege of <hi>Limbrick;</hi> and not only of that, but of <hi>Carrick-fergus, Tredagh, Dublin, Wick-low, Water-ford, Kill-kenny, Kingſail, Cork, Athlone, Galloway,</hi> and what not?</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I perceive Sir, you ſpeak compre<g ref="char:EOLhyphen"/>henſively. For ſome of theſe places were ne're beſieg'd at all.</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>It is no matter for that Sir, for if they had been beſieg'd, I'm ſure I ſhould have been ſent for one.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>But I pray Sir, have you been all that Kingdom over?</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Over Sir? Ay and over again; from St. <hi>Patricks</hi> Purgatory in the Coun<g ref="char:EOLhyphen"/>ty
+<pb n="88" facs="tcp:101802:52"/> of <hi>Tyrone,</hi> to the <hi>Devils Hole</hi> in the County of <hi>Kerry.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I wonder how you ever got out of thoſe diſmal places.</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Oh Sir, there is no way <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>paſſa<g ref="char:EOLhyphen"/>ble to an Engliſh Heart, and a German Blade. This Sword with this Hand will cut it's way thorough any Rock, better than any <hi>aquafortis.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>But I pray Mr. <hi>Killagrew.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Sir, my name is <hi>Kill-a-crew:</hi> and a Crew I have kill'd of the verye<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Ver<g ref="char:EOLhyphen"/>min that ever the Earth bore.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Well then Mr. <hi>Killacrew,</hi> how did your Sword make way for you tho<g ref="char:EOLhyphen"/>rough the Bogs?</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>The Bogs Sir? I needed no Sword. I was grown ſo expert, that I made no more of running over the Bogs, than one of you grave ſirs would do of walking along the ſtreets. Did your Gazzette never tell you of my chaſing a party of Rapparees over the Bog of <hi>Al<g ref="char:EOLhyphen"/>lain,</hi> and killing nine of 'em?</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>Now you ſpeak of it, I do remem<g ref="char:EOLhyphen"/>ber ſomething of a certain ſtout Souldier that kill'd eight or nine Rapparees upon the bog of <hi>Allain,</hi> who afterwards, like Cowardly Rogues, ran away to their
+<pb n="89" facs="tcp:101802:52"/> Garriſon of <hi>Mullingar.</hi> But I little thought you had been that Champi<g ref="char:EOLhyphen"/>on.</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>I am the Man Sir, I <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eft my<g ref="char:punc">▪</g> Horſe and my Jack-boots at the ſide of a Wood, and theſe Feet carried me to that exploit, and brought me off a<g ref="char:EOLhyphen"/>gain.</p>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <p>I perceive Sir, you have been a zealous ſervant of the Kings: how chance you forſake him now?</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>I forſake him Sir? No; his Ene<g ref="char:EOLhyphen"/>mies forſake him. His Enemies ceaſe, not his Friends.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Come, come, <hi>Keſter,</hi> tell truly. Are you not come away in ſome diſguſt?</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <p>Diſguſt, Sir? I tell you, if eve<g ref="char:EOLhyphen"/>ry Hair on my Head, were a Head, I would adventure it for his ſake, and if every Finger on my Hand were a Hand, I would employ it in his Service. But having conquer'd, I am willing to ſit down in peace, which few Souldiers are. For they that draw the Sword, common<g ref="char:EOLhyphen"/>ly love to live by it.</p>
+               </sp>
+               <sp>
+                  <speaker>Free.</speaker>
+                  <p>Well ſaid, <hi>Keſter:</hi> For it is no leſs a Vertue to leave off fighting, than it is to fight. Fighting is an honeſt recrea<g ref="char:EOLhyphen"/>tion, but a bad Trade: and ſo is talk<g ref="char:EOLhyphen"/>ing
+<pb n="90" facs="tcp:101802:53"/> as we do. Wherefore if it pleaſe you Gentlemen to walk in, we will enter<g ref="char:EOLhyphen"/>tain honeſt <hi>Keſter</hi> with the beſt the Houſe will afford, and drink a health to his Maſter.</p>
+               </sp>
+               <sp>
+                  <speaker>Kill.</speaker>
+                  <stage>—Flings up his Hat,</stage>
+                  <p>Huzzah! Long live, King <hi>William</hi> and Queen <hi>Ma<g ref="char:EOLhyphen"/>ry.</hi>
+                  </p>
+               </sp>
+               <stage>—<hi>Exeunt Omnes.</hi>
+               </stage>
+            </div>
+            <div type="epilogue">
+               <pb n="91" facs="tcp:101802:53"/>
+               <head>Epilogus.</head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>MY Maſter Sir <hi>Francis,</hi> gives his ſervice to you all, and commands me to tell you, that if his Houſe were as large as his Heart, you ſhould all lodge all night in the former, as we<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l as you are ſure to do in the latter. Though the entertainment was intended for his two great friends the Doctors, and the be<g ref="char:EOLhyphen"/>nefit to redound to his Tenants, yet he thanks you all for the honour you do him in this viſit, and wiſhes himſelf capable (can you blame him?) of entertaining you all like Princes. He is a perſon of a Mind and Temper ample and generous: He gives me leave, that am but his But<g ref="char:EOLhyphen"/>ler, at any time to entertain as many as the Buttery will hold, with as much Ale as their Bellies will hold. But, alas, he wants room for ſo great a Company; as indeed you may eaſily perceive: For if he had had other room convenient,
+<pb n="92" facs="tcp:101802:54"/> he would not have deſecrated his Chap<g ref="char:EOLhyphen"/>pel, as you ſee he has done to cay, for your ſakes. But his Worſhip has comman<g ref="char:EOLhyphen"/>ded me to direct you to certain <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nns for accommodation and lodging at his char<g ref="char:EOLhyphen"/>ges. As for preſent accommodation, there is ſcarce a publick Houſe in Town, but can furniſh you. If you intend to lodge, they can alſo furniſh you: only you are to be you lodge at any Man's Houſe that has Horns, you leave no more behind you than you found. As for particular choice. I need give you no directions, they are all good; nay they are all beſt. The Bull has the beſt Mouth, the Bell is the beſt Me<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le, the Stag and the Heart are the beſt Veniſon, The Lamb is the beſt natur'd, the George is the beſt mounted, the Dog has the beſt heels, the Lion has the beſt Heart, the Bear has the beſt back, but the Keys if they be St. <hi>Peters,</hi> have the beſt autho<g ref="char:EOLhyphen"/>rity. The Peacock has the beſt Feathers, the Swan has the beſt Neck, the Royal Pate has the beſt Brains, but the Vine, (oh the Vine!) affords the beſt Liquor. But, if after all, you would know my opinion, the Eagle that carries away the Child is our beſt Emblem, ſhe wil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mount
+<pb n="93" facs="tcp:101802:54"/> all the pretty Lads into the Skies upon the Wings of Fame, and ſo every Boy ſhall be a <hi>Ganymedes.</hi> And I aſſure you to be a Butler to <hi>Jupiter</hi> is no ſmall preferment.</p>
+               <p>And now Gentlemen, as we met lovers, I hope we ſhall part friends.</p>
+               <closer>
+                  <salute>Fare ye well.</salute>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:101802:55"/>
+            <pb facs="tcp:101802:55"/>
+            <head>ERRATA.</head>
+            <p>PAge 3. l. 9. r. <hi>ſwet,</hi> l. 24. r. <hi>there,</hi> P. 5. l. 9. r. <hi>nomine,</hi> p. 6. l. 15. r. <hi>giving,</hi> P. 10. l. 1. r. <hi>ſmall,</hi> p. 15. l. <hi>penult.</hi> r. <hi>hu<g ref="char:EOLhyphen"/>mourous,</hi> P. 25. l. 10. r. <hi>fixing,</hi> l. 12. for <hi>one</hi> r. we, p. 32. l. <hi>penult,</hi> for <hi>he is</hi> r. <hi>you be,</hi> p. 34. l. 3. after <hi>talk</hi> add <hi>much,</hi> p. 35. blot out line the 24. p. 39. l. 2. r. <hi>Hogs,</hi> p. 42. l. 6. after <hi>heated</hi> add <hi>his head,</hi> l. 16. r. <hi>Cruſt,</hi> p. 43. l. <hi>penult,</hi> r. <hi>ſpeak,</hi> p. 44. l. 12. and 23. p. 45. l. 12. r. <hi>Will,</hi> p. 47. l. 5. r. <hi>an,</hi> p. 61. l. 7. after <hi>fodder</hi> add <hi>too,</hi> p. 65. l. 15. r. <hi>Scotomia,</hi> p. 68. l. 4. r. <hi>Pa<g ref="char:EOLhyphen"/>piſt,</hi> p. 14. l. 3. r. <hi>curs'd,</hi> p. 78. l. 17. dele <hi>the.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
